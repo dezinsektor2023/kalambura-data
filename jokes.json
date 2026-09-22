@@ -23,7 +23,7 @@
     "type": "kalambura",
     "text": "TESTirao sam se dok su me ispitivali",
     "author": "Test autor"
-  },  
+  },
   {
     "date": "2026-09-22",
     "id": 5,
@@ -32,9 +32,10 @@
   },
   {
     "date": "2026-09-23",
-    "id": 6,
+    "id": 366,
     "type": "kalambura",
-    "text": "Di je Musper?."
+    "text": "Bolje ispasti budala nego iz vlaka",
+    "author": "makro"
   },
   {
     "date": "2026-09-24",
@@ -44,9 +45,9 @@
   },
   {
     "date": "2026-09-25",
-    "id": 8,
+    "id": 6,
     "type": "kalambura",
-    "text": "Začini mi se da bi...i ja dao pola života svog"
+    "text": "Di je Musper?."
   },
   {
     "date": "2026-09-26",
@@ -56,9 +57,9 @@
   },
   {
     "date": "2026-09-27",
-    "id": 10,
+    "id": 8,
     "type": "kalambura",
-    "text": "Čovječe ne Zrinkaj se."
+    "text": "Začini mi se da bi...i ja dao pola života svog"
   },
   {
     "date": "2026-09-28",
@@ -68,9 +69,9 @@
   },
   {
     "date": "2026-09-29",
-    "id": 12,
+    "id": 10,
     "type": "kalambura",
-    "text": "Nada umire Rafael. Sjeti se 'L'."
+    "text": "Čovječe ne Zrinkaj se."
   },
   {
     "date": "2026-09-30",
@@ -80,9 +81,9 @@
   },
   {
     "date": "2026-10-01",
-    "id": 14,
+    "id": 12,
     "type": "kalambura",
-    "text": "Aj još Vladimir putna pa idemo."
+    "text": "Nada umire Rafael. Sjeti se 'L'."
   },
   {
     "date": "2026-10-02",
@@ -92,9 +93,9 @@
   },
   {
     "date": "2026-10-03",
-    "id": 16,
+    "id": 14,
     "type": "kalambura",
-    "text": "Slobodan sam ko Milošević."
+    "text": "Aj još Vladimir putna pa idemo."
   },
   {
     "date": "2026-10-04",
@@ -104,9 +105,9 @@
   },
   {
     "date": "2026-10-05",
-    "id": 18,
+    "id": 16,
     "type": "kalambura",
-    "text": "Sin iša Što reko."
+    "text": "Slobodan sam ko Milošević."
   },
   {
     "date": "2026-10-06",
@@ -116,9 +117,9 @@
   },
   {
     "date": "2026-10-07",
-    "id": 20,
+    "id": 18,
     "type": "kalambura",
-    "text": "Sad dam, sad ne dam Hasanefendić Hus."
+    "text": "Sin iša Što reko."
   },
   {
     "date": "2026-10-08",
@@ -128,9 +129,9 @@
   },
   {
     "date": "2026-10-09",
-    "id": 22,
+    "id": 20,
     "type": "kalambura",
-    "text": "Mladić isti ko u Hagu Ratko."
+    "text": "Sad dam, sad ne dam Hasanefendić Hus."
   },
   {
     "date": "2026-10-10",
@@ -140,9 +141,9 @@
   },
   {
     "date": "2026-10-11",
-    "id": 24,
+    "id": 22,
     "type": "kalambura",
-    "text": "Drago mi je Mlinarec"
+    "text": "Mladić isti ko u Hagu Ratko."
   },
   {
     "date": "2026-10-12",
@@ -152,9 +153,9 @@
   },
   {
     "date": "2026-10-13",
-    "id": 26,
+    "id": 24,
     "type": "kalambura",
-    "text": "Ali ja nisam Izetbegović!"
+    "text": "Drago mi je Mlinarec"
   },
   {
     "date": "2026-10-14",
@@ -164,9 +165,9 @@
   },
   {
     "date": "2026-10-15",
-    "id": 28,
+    "id": 26,
     "type": "kalambura",
-    "text": "Vani je hladno ko da je Žuti (zeleni, crni...)."
+    "text": "Ali ja nisam Izetbegović!"
   },
   {
     "date": "2026-10-16",
@@ -176,9 +177,9 @@
   },
   {
     "date": "2026-10-17",
-    "id": 30,
+    "id": 28,
     "type": "kalambura",
-    "text": "Jandrala ko Jandroković."
+    "text": "Vani je hladno ko da je Žuti (zeleni, crni...)."
   },
   {
     "date": "2026-10-18",
@@ -188,9 +189,9 @@
   },
   {
     "date": "2026-10-19",
-    "id": 32,
+    "id": 30,
     "type": "kalambura",
-    "text": "Marija je volila Josipovića."
+    "text": "Jandrala ko Jandroković."
   },
   {
     "date": "2026-10-20",
@@ -200,9 +201,9 @@
   },
   {
     "date": "2026-10-21",
-    "id": 34,
+    "id": 32,
     "type": "kalambura",
-    "text": "Baš si ko Čelik ."
+    "text": "Marija je volila Josipovića."
   },
   {
     "date": "2026-10-22",
@@ -212,9 +213,9 @@
   },
   {
     "date": "2026-10-23",
-    "id": 36,
+    "id": 34,
     "type": "kalambura",
-    "text": "Pokrali me ko Nedu."
+    "text": "Baš si ko Čelik ."
   },
   {
     "date": "2026-10-24",
@@ -224,9 +225,9 @@
   },
   {
     "date": "2026-10-25",
-    "id": 38,
+    "id": 36,
     "type": "kalambura",
-    "text": "Sud sam ko spor."
+    "text": "Pokrali me ko Nedu."
   },
   {
     "date": "2026-10-26",
@@ -236,9 +237,9 @@
   },
   {
     "date": "2026-10-27",
-    "id": 40,
+    "id": 38,
     "type": "kalambura",
-    "text": "Molim vas Đuku od šipka"
+    "text": "Sud sam ko spor."
   },
   {
     "date": "2026-10-28",
@@ -248,9 +249,9 @@
   },
   {
     "date": "2026-10-29",
-    "id": 42,
+    "id": 40,
     "type": "kalambura",
-    "text": "Jak sam ko Jakić."
+    "text": "Molim vas Đuku od šipka"
   },
   {
     "date": "2026-10-30",
@@ -260,9 +261,9 @@
   },
   {
     "date": "2026-10-31",
-    "id": 44,
+    "id": 42,
     "type": "kalambura",
-    "text": "Mlate mišu kovači ako te zlostavi"
+    "text": "Jak sam ko Jakić."
   },
   {
     "date": "2026-11-01",
@@ -272,9 +273,9 @@
   },
   {
     "date": "2026-11-02",
-    "id": 46,
+    "id": 44,
     "type": "kalambura",
-    "text": "Izvinite, Dolly pardon."
+    "text": "Mlate mišu kovači ako te zlostavi"
   },
   {
     "date": "2026-11-03",
@@ -284,9 +285,9 @@
   },
   {
     "date": "2026-11-04",
-    "id": 48,
+    "id": 46,
     "type": "kalambura",
-    "text": "Edson Arantes de Nascimento pelene."
+    "text": "Izvinite, Dolly pardon."
   },
   {
     "date": "2026-11-05",
@@ -296,9 +297,9 @@
   },
   {
     "date": "2026-11-06",
-    "id": 50,
+    "id": 48,
     "type": "kalambura",
-    "text": "Dalmatiner povišću pritrujen."
+    "text": "Edson Arantes de Nascimento pelene."
   },
   {
     "date": "2026-11-07",
@@ -308,9 +309,9 @@
   },
   {
     "date": "2026-11-08",
-    "id": 52,
+    "id": 50,
     "type": "kalambura",
-    "text": "Kažu da sam čelik. Baš!"
+    "text": "Dalmatiner povišću pritrujen."
   },
   {
     "date": "2026-11-09",
@@ -320,9 +321,9 @@
   },
   {
     "date": "2026-11-10",
-    "id": 54,
+    "id": 52,
     "type": "kalambura",
-    "text": "Sveta ljubav dolazi kad i Blagdan."
+    "text": "Kažu da sam čelik. Baš!"
   },
   {
     "date": "2026-11-11",
@@ -332,9 +333,9 @@
   },
   {
     "date": "2026-11-12",
-    "id": 56,
+    "id": 54,
     "type": "kalambura",
-    "text": "Kažu da sam malen. Ma kakav ja, Malić."
+    "text": "Sveta ljubav dolazi kad i Blagdan."
   },
   {
     "date": "2026-11-13",
@@ -344,9 +345,9 @@
   },
   {
     "date": "2026-11-14",
-    "id": 58,
+    "id": 56,
     "type": "kalambura",
-    "text": "Dug sam ko Dugić."
+    "text": "Kažu da sam malen. Ma kakav ja, Malić."
   },
   {
     "date": "2026-11-15",
@@ -356,9 +357,9 @@
   },
   {
     "date": "2026-11-16",
-    "id": 60,
+    "id": 58,
     "type": "kalambura",
-    "text": "Kažu da sam dug. Ma kakav ja, Dugić."
+    "text": "Dug sam ko Dugić."
   },
   {
     "date": "2026-11-17",
@@ -368,9 +369,9 @@
   },
   {
     "date": "2026-11-18",
-    "id": 62,
+    "id": 60,
     "type": "kalambura",
-    "text": "Kratak sam ko Kratkić."
+    "text": "Kažu da sam dug. Ma kakav ja, Dugić."
   },
   {
     "date": "2026-11-19",
@@ -380,9 +381,9 @@
   },
   {
     "date": "2026-11-20",
-    "id": 64,
+    "id": 62,
     "type": "kalambura",
-    "text": "Kažu da sam kratak. Ma kakav ja, Kratkić."
+    "text": "Kratak sam ko Kratkić."
   },
   {
     "date": "2026-11-21",
@@ -392,9 +393,9 @@
   },
   {
     "date": "2026-11-22",
-    "id": 66,
+    "id": 64,
     "type": "kalambura",
-    "text": "Visok sam ko Visokić."
+    "text": "Kažu da sam kratak. Ma kakav ja, Kratkić."
   },
   {
     "date": "2026-11-23",
@@ -404,9 +405,9 @@
   },
   {
     "date": "2026-11-24",
-    "id": 68,
+    "id": 66,
     "type": "kalambura",
-    "text": "Kažu da sam visok. Ma kakav ja, Visokić."
+    "text": "Visok sam ko Visokić."
   },
   {
     "date": "2026-11-25",
@@ -416,9 +417,9 @@
   },
   {
     "date": "2026-11-26",
-    "id": 70,
+    "id": 68,
     "type": "kalambura",
-    "text": "Nizak sam ko Niskić."
+    "text": "Kažu da sam visok. Ma kakav ja, Visokić."
   },
   {
     "date": "2026-11-27",
@@ -428,9 +429,9 @@
   },
   {
     "date": "2026-11-28",
-    "id": 72,
+    "id": 70,
     "type": "kalambura",
-    "text": "Kažu da sam nizak. Ma kakav ja, Niskić."
+    "text": "Nizak sam ko Niskić."
   },
   {
     "date": "2026-11-29",
@@ -440,9 +441,9 @@
   },
   {
     "date": "2026-11-30",
-    "id": 74,
+    "id": 72,
     "type": "kalambura",
-    "text": "Širok sam ko Širokić."
+    "text": "Kažu da sam nizak. Ma kakav ja, Niskić."
   },
   {
     "date": "2026-12-01",
@@ -452,9 +453,9 @@
   },
   {
     "date": "2026-12-02",
-    "id": 76,
+    "id": 74,
     "type": "kalambura",
-    "text": "Kažu da sam širok. Ma kakav ja, Širokić."
+    "text": "Širok sam ko Širokić."
   },
   {
     "date": "2026-12-03",
@@ -464,9 +465,9 @@
   },
   {
     "date": "2026-12-04",
-    "id": 78,
+    "id": 76,
     "type": "kalambura",
-    "text": "Uzak sam ko Uskić."
+    "text": "Kažu da sam širok. Ma kakav ja, Širokić."
   },
   {
     "date": "2026-12-05",
@@ -476,9 +477,9 @@
   },
   {
     "date": "2026-12-06",
-    "id": 80,
+    "id": 78,
     "type": "kalambura",
-    "text": "Kažu da sam uzak. Ma kakav ja, Uskić."
+    "text": "Uzak sam ko Uskić."
   },
   {
     "date": "2026-12-07",
@@ -488,9 +489,9 @@
   },
   {
     "date": "2026-12-08",
-    "id": 82,
+    "id": 80,
     "type": "kalambura",
-    "text": "Dubok sam ko Dubokić."
+    "text": "Kažu da sam uzak. Ma kakav ja, Uskić."
   },
   {
     "date": "2026-12-09",
@@ -500,9 +501,9 @@
   },
   {
     "date": "2026-12-10",
-    "id": 84,
+    "id": 82,
     "type": "kalambura",
-    "text": "Kažu da sam dubok. Ma kakav ja, Dubokić."
+    "text": "Dubok sam ko Dubokić."
   },
   {
     "date": "2026-12-11",
@@ -512,9 +513,9 @@
   },
   {
     "date": "2026-12-12",
-    "id": 86,
+    "id": 84,
     "type": "kalambura",
-    "text": "Plitak sam ko Plitkić."
+    "text": "Kažu da sam dubok. Ma kakav ja, Dubokić."
   },
   {
     "date": "2026-12-13",
@@ -524,9 +525,9 @@
   },
   {
     "date": "2026-12-14",
-    "id": 88,
+    "id": 86,
     "type": "kalambura",
-    "text": "Kažu da sam plitak. Ma kakav ja, Plitkić."
+    "text": "Plitak sam ko Plitkić."
   },
   {
     "date": "2026-12-15",
@@ -536,9 +537,9 @@
   },
   {
     "date": "2026-12-16",
-    "id": 90,
+    "id": 88,
     "type": "kalambura",
-    "text": "Ravan sam ko Ravnić."
+    "text": "Kažu da sam plitak. Ma kakav ja, Plitkić."
   },
   {
     "date": "2026-12-17",
@@ -548,9 +549,9 @@
   },
   {
     "date": "2026-12-18",
-    "id": 92,
+    "id": 90,
     "type": "kalambura",
-    "text": "Kažu da sam ravan. Ma kakav ja, Ravnić."
+    "text": "Ravan sam ko Ravnić."
   },
   {
     "date": "2026-12-19",
@@ -560,9 +561,9 @@
   },
   {
     "date": "2026-12-20",
-    "id": 94,
+    "id": 92,
     "type": "kalambura",
-    "text": "Kriv sam ko Krivić."
+    "text": "Kažu da sam ravan. Ma kakav ja, Ravnić."
   },
   {
     "date": "2026-12-21",
@@ -572,9 +573,9 @@
   },
   {
     "date": "2026-12-22",
-    "id": 96,
+    "id": 94,
     "type": "kalambura",
-    "text": "Kažu da sam kriv. Ma kakav ja, Krivić."
+    "text": "Kriv sam ko Krivić."
   },
   {
     "date": "2026-12-23",
@@ -584,9 +585,9 @@
   },
   {
     "date": "2026-12-24",
-    "id": 98,
+    "id": 96,
     "type": "kalambura",
-    "text": "Čist sam ko Čistić."
+    "text": "Kažu da sam kriv. Ma kakav ja, Krivić."
   },
   {
     "date": "2026-12-25",
@@ -596,9 +597,9 @@
   },
   {
     "date": "2026-12-26",
-    "id": 100,
+    "id": 98,
     "type": "kalambura",
-    "text": "Kažu da sam čist. Ma kakav ja, Čistić."
+    "text": "Čist sam ko Čistić."
   },
   {
     "date": "2026-12-27",
@@ -608,9 +609,9 @@
   },
   {
     "date": "2026-12-28",
-    "id": 102,
+    "id": 100,
     "type": "kalambura",
-    "text": "Prljav sam ko Prljić."
+    "text": "Kažu da sam čist. Ma kakav ja, Čistić."
   },
   {
     "date": "2026-12-29",
@@ -620,9 +621,9 @@
   },
   {
     "date": "2026-12-30",
-    "id": 104,
+    "id": 102,
     "type": "kalambura",
-    "text": "Kažu da sam prljav. Ma kakav ja, Prljić."
+    "text": "Prljav sam ko Prljić."
   },
   {
     "date": "2026-12-31",
@@ -632,9 +633,9 @@
   },
   {
     "date": "2027-01-01",
-    "id": 106,
+    "id": 104,
     "type": "kalambura",
-    "text": "Mokar sam ko Mokrić."
+    "text": "Kažu da sam prljav. Ma kakav ja, Prljić."
   },
   {
     "date": "2027-01-02",
@@ -644,9 +645,9 @@
   },
   {
     "date": "2027-01-03",
-    "id": 108,
+    "id": 106,
     "type": "kalambura",
-    "text": "Kažu da sam mokar. Ma kakav ja, Mokrić."
+    "text": "Mokar sam ko Mokrić."
   },
   {
     "date": "2027-01-04",
@@ -656,9 +657,9 @@
   },
   {
     "date": "2027-01-05",
-    "id": 110,
+    "id": 108,
     "type": "kalambura",
-    "text": "Suh sam ko Suhić."
+    "text": "Kažu da sam mokar. Ma kakav ja, Mokrić."
   },
   {
     "date": "2027-01-06",
@@ -668,9 +669,9 @@
   },
   {
     "date": "2027-01-07",
-    "id": 112,
+    "id": 110,
     "type": "kalambura",
-    "text": "Kažu da sam suh. Ma kakav ja, Suhić."
+    "text": "Suh sam ko Suhić."
   },
   {
     "date": "2027-01-08",
@@ -680,9 +681,9 @@
   },
   {
     "date": "2027-01-09",
-    "id": 114,
+    "id": 112,
     "type": "kalambura",
-    "text": "Topao sam ko Toplić."
+    "text": "Kažu da sam suh. Ma kakav ja, Suhić."
   },
   {
     "date": "2027-01-10",
@@ -692,9 +693,9 @@
   },
   {
     "date": "2027-01-11",
-    "id": 116,
+    "id": 114,
     "type": "kalambura",
-    "text": "Kažu da sam topao. Ma kakav ja, Toplić."
+    "text": "Topao sam ko Toplić."
   },
   {
     "date": "2027-01-12",
@@ -704,9 +705,9 @@
   },
   {
     "date": "2027-01-13",
-    "id": 118,
+    "id": 116,
     "type": "kalambura",
-    "text": "Hladan sam ko Hladnić."
+    "text": "Kažu da sam topao. Ma kakav ja, Toplić."
   },
   {
     "date": "2027-01-14",
@@ -716,9 +717,9 @@
   },
   {
     "date": "2027-01-15",
-    "id": 120,
+    "id": 118,
     "type": "kalambura",
-    "text": "Kažu da sam hladan. Ma kakav ja, Hladnić."
+    "text": "Hladan sam ko Hladnić."
   },
   {
     "date": "2027-01-16",
@@ -728,9 +729,9 @@
   },
   {
     "date": "2027-01-17",
-    "id": 122,
+    "id": 120,
     "type": "kalambura",
-    "text": "Sladak sam ko Slatkić."
+    "text": "Kažu da sam hladan. Ma kakav ja, Hladnić."
   },
   {
     "date": "2027-01-18",
@@ -740,9 +741,9 @@
   },
   {
     "date": "2027-01-19",
-    "id": 124,
+    "id": 122,
     "type": "kalambura",
-    "text": "Kažu da sam sladak. Ma kakav ja, Slatkić."
+    "text": "Sladak sam ko Slatkić."
   },
   {
     "date": "2027-01-20",
@@ -752,9 +753,9 @@
   },
   {
     "date": "2027-01-21",
-    "id": 126,
+    "id": 124,
     "type": "kalambura",
-    "text": "Kiseo sam ko Kiselić."
+    "text": "Kažu da sam sladak. Ma kakav ja, Slatkić."
   },
   {
     "date": "2027-01-22",
@@ -764,9 +765,9 @@
   },
   {
     "date": "2027-01-23",
-    "id": 128,
+    "id": 126,
     "type": "kalambura",
-    "text": "Kažu da sam kiseo. Ma kakav ja, Kiselić."
+    "text": "Kiseo sam ko Kiselić."
   },
   {
     "date": "2027-01-24",
@@ -776,9 +777,9 @@
   },
   {
     "date": "2027-01-25",
-    "id": 130,
+    "id": 128,
     "type": "kalambura",
-    "text": "Ljut sam ko Ljutić."
+    "text": "Kažu da sam kiseo. Ma kakav ja, Kiselić."
   },
   {
     "date": "2027-01-26",
@@ -788,9 +789,9 @@
   },
   {
     "date": "2027-01-27",
-    "id": 132,
+    "id": 130,
     "type": "kalambura",
-    "text": "Kažu da sam ljut. Ma kakav ja, Ljutić."
+    "text": "Ljut sam ko Ljutić."
   },
   {
     "date": "2027-01-28",
@@ -800,9 +801,9 @@
   },
   {
     "date": "2027-01-29",
-    "id": 134,
+    "id": 132,
     "type": "kalambura",
-    "text": "Gorak sam ko Gorkić."
+    "text": "Kažu da sam ljut. Ma kakav ja, Ljutić."
   },
   {
     "date": "2027-01-30",
@@ -812,9 +813,9 @@
   },
   {
     "date": "2027-01-31",
-    "id": 136,
+    "id": 134,
     "type": "kalambura",
-    "text": "Kažu da sam gorak. Ma kakav ja, Gorkić."
+    "text": "Gorak sam ko Gorkić."
   },
   {
     "date": "2027-02-01",
@@ -824,9 +825,9 @@
   },
   {
     "date": "2027-02-02",
-    "id": 138,
+    "id": 136,
     "type": "kalambura",
-    "text": "Mekan sam ko Mekić."
+    "text": "Kažu da sam gorak. Ma kakav ja, Gorkić."
   },
   {
     "date": "2027-02-03",
@@ -836,9 +837,9 @@
   },
   {
     "date": "2027-02-04",
-    "id": 140,
+    "id": 138,
     "type": "kalambura",
-    "text": "Kažu da sam mekan. Ma kakav ja, Mekić."
+    "text": "Mekan sam ko Mekić."
   },
   {
     "date": "2027-02-05",
@@ -848,9 +849,9 @@
   },
   {
     "date": "2027-02-06",
-    "id": 142,
+    "id": 140,
     "type": "kalambura",
-    "text": "Tvrd sam ko Tvrdić."
+    "text": "Kažu da sam mekan. Ma kakav ja, Mekić."
   },
   {
     "date": "2027-02-07",
@@ -860,9 +861,9 @@
   },
   {
     "date": "2027-02-08",
-    "id": 144,
+    "id": 142,
     "type": "kalambura",
-    "text": "Kažu da sam tvrd. Ma kakav ja, Tvrdić."
+    "text": "Tvrd sam ko Tvrdić."
   },
   {
     "date": "2027-02-09",
@@ -872,9 +873,9 @@
   },
   {
     "date": "2027-02-10",
-    "id": 146,
+    "id": 144,
     "type": "kalambura",
-    "text": "Oštar sam ko Oštrić."
+    "text": "Kažu da sam tvrd. Ma kakav ja, Tvrdić."
   },
   {
     "date": "2027-02-11",
@@ -884,9 +885,9 @@
   },
   {
     "date": "2027-02-12",
-    "id": 148,
+    "id": 146,
     "type": "kalambura",
-    "text": "Kažu da sam oštar. Ma kakav ja, Oštrić."
+    "text": "Oštar sam ko Oštrić."
   },
   {
     "date": "2027-02-13",
@@ -896,9 +897,9 @@
   },
   {
     "date": "2027-02-14",
-    "id": 150,
+    "id": 148,
     "type": "kalambura",
-    "text": "Tup sam ko Tupić."
+    "text": "Kažu da sam oštar. Ma kakav ja, Oštrić."
   },
   {
     "date": "2027-02-15",
@@ -908,9 +909,9 @@
   },
   {
     "date": "2027-02-16",
-    "id": 152,
+    "id": 150,
     "type": "kalambura",
-    "text": "Kažu da sam tup. Ma kakav ja, Tupić."
+    "text": "Tup sam ko Tupić."
   },
   {
     "date": "2027-02-17",
@@ -920,9 +921,9 @@
   },
   {
     "date": "2027-02-18",
-    "id": 154,
+    "id": 152,
     "type": "kalambura",
-    "text": "Bistar sam ko Bistrić."
+    "text": "Kažu da sam tup. Ma kakav ja, Tupić."
   },
   {
     "date": "2027-02-19",
@@ -932,9 +933,9 @@
   },
   {
     "date": "2027-02-20",
-    "id": 156,
+    "id": 154,
     "type": "kalambura",
-    "text": "Kažu da sam bistar. Ma kakav ja, Bistrić."
+    "text": "Bistar sam ko Bistrić."
   },
   {
     "date": "2027-02-21",
@@ -944,9 +945,9 @@
   },
   {
     "date": "2027-02-22",
-    "id": 158,
+    "id": 156,
     "type": "kalambura",
-    "text": "Mutan sam ko Mutnić."
+    "text": "Kažu da sam bistar. Ma kakav ja, Bistrić."
   },
   {
     "date": "2027-02-23",
@@ -956,9 +957,9 @@
   },
   {
     "date": "2027-02-24",
-    "id": 160,
+    "id": 158,
     "type": "kalambura",
-    "text": "Kažu da sam mutan. Ma kakav ja, Mutnić."
+    "text": "Mutan sam ko Mutnić."
   },
   {
     "date": "2027-02-25",
@@ -968,9 +969,9 @@
   },
   {
     "date": "2027-02-26",
-    "id": 162,
+    "id": 160,
     "type": "kalambura",
-    "text": "Svijetao sam ko Svijetlić."
+    "text": "Kažu da sam mutan. Ma kakav ja, Mutnić."
   },
   {
     "date": "2027-02-27",
@@ -980,9 +981,9 @@
   },
   {
     "date": "2027-02-28",
-    "id": 164,
+    "id": 162,
     "type": "kalambura",
-    "text": "Kažu da sam svijetao. Ma kakav ja, Svijetlić."
+    "text": "Svijetao sam ko Svijetlić."
   },
   {
     "date": "2027-03-01",
@@ -992,9 +993,9 @@
   },
   {
     "date": "2027-03-02",
-    "id": 166,
+    "id": 164,
     "type": "kalambura",
-    "text": "Taman sam ko Tamnić."
+    "text": "Kažu da sam svijetao. Ma kakav ja, Svijetlić."
   },
   {
     "date": "2027-03-03",
@@ -1004,9 +1005,9 @@
   },
   {
     "date": "2027-03-04",
-    "id": 168,
+    "id": 166,
     "type": "kalambura",
-    "text": "Kažu da sam taman. Ma kakav ja, Tamnić."
+    "text": "Taman sam ko Tamnić."
   },
   {
     "date": "2027-03-05",
@@ -1016,9 +1017,9 @@
   },
   {
     "date": "2027-03-06",
-    "id": 170,
+    "id": 168,
     "type": "kalambura",
-    "text": "Crn sam ko Crnić."
+    "text": "Kažu da sam taman. Ma kakav ja, Tamnić."
   },
   {
     "date": "2027-03-07",
@@ -1028,9 +1029,9 @@
   },
   {
     "date": "2027-03-08",
-    "id": 172,
+    "id": 170,
     "type": "kalambura",
-    "text": "Kažu da sam crn. Ma kakav ja, Crnić."
+    "text": "Crn sam ko Crnić."
   },
   {
     "date": "2027-03-09",
@@ -1040,9 +1041,9 @@
   },
   {
     "date": "2027-03-10",
-    "id": 174,
+    "id": 172,
     "type": "kalambura",
-    "text": "Bijel sam ko Bilić."
+    "text": "Kažu da sam crn. Ma kakav ja, Crnić."
   },
   {
     "date": "2027-03-11",
@@ -1052,9 +1053,9 @@
   },
   {
     "date": "2027-03-12",
-    "id": 176,
+    "id": 174,
     "type": "kalambura",
-    "text": "Kažu da sam bijel. Ma kakav ja, Bilić."
+    "text": "Bijel sam ko Bilić."
   },
   {
     "date": "2027-03-13",
@@ -1064,9 +1065,9 @@
   },
   {
     "date": "2027-03-14",
-    "id": 178,
+    "id": 176,
     "type": "kalambura",
-    "text": "Zelen sam ko Zelenić."
+    "text": "Kažu da sam bijel. Ma kakav ja, Bilić."
   },
   {
     "date": "2027-03-15",
@@ -1076,9 +1077,9 @@
   },
   {
     "date": "2027-03-16",
-    "id": 180,
+    "id": 178,
     "type": "kalambura",
-    "text": "Kažu da sam zelen. Ma kakav ja, Zelenić."
+    "text": "Zelen sam ko Zelenić."
   },
   {
     "date": "2027-03-17",
@@ -1088,9 +1089,9 @@
   },
   {
     "date": "2027-03-18",
-    "id": 182,
+    "id": 180,
     "type": "kalambura",
-    "text": "Plav sam ko Plavić."
+    "text": "Kažu da sam zelen. Ma kakav ja, Zelenić."
   },
   {
     "date": "2027-03-19",
@@ -1100,9 +1101,9 @@
   },
   {
     "date": "2027-03-20",
-    "id": 184,
+    "id": 182,
     "type": "kalambura",
-    "text": "Kažu da sam plav. Ma kakav ja, Plavić."
+    "text": "Plav sam ko Plavić."
   },
   {
     "date": "2027-03-21",
@@ -1112,9 +1113,9 @@
   },
   {
     "date": "2027-03-22",
-    "id": 186,
+    "id": 184,
     "type": "kalambura",
-    "text": "Crven sam ko Crvenić."
+    "text": "Kažu da sam plav. Ma kakav ja, Plavić."
   },
   {
     "date": "2027-03-23",
@@ -1124,9 +1125,9 @@
   },
   {
     "date": "2027-03-24",
-    "id": 188,
+    "id": 186,
     "type": "kalambura",
-    "text": "Kažu da sam crven. Ma kakav ja, Crvenić."
+    "text": "Crven sam ko Crvenić."
   },
   {
     "date": "2027-03-25",
@@ -1136,9 +1137,9 @@
   },
   {
     "date": "2027-03-26",
-    "id": 190,
+    "id": 188,
     "type": "kalambura",
-    "text": "Žut sam ko Žutić."
+    "text": "Kažu da sam crven. Ma kakav ja, Crvenić."
   },
   {
     "date": "2027-03-27",
@@ -1148,9 +1149,9 @@
   },
   {
     "date": "2027-03-28",
-    "id": 192,
+    "id": 190,
     "type": "kalambura",
-    "text": "Kažu da sam žut. Ma kakav ja, Žutić."
+    "text": "Žut sam ko Žutić."
   },
   {
     "date": "2027-03-29",
@@ -1160,9 +1161,9 @@
   },
   {
     "date": "2027-03-30",
-    "id": 194,
+    "id": 192,
     "type": "kalambura",
-    "text": "Siv sam ko Sivić."
+    "text": "Kažu da sam žut. Ma kakav ja, Žutić."
   },
   {
     "date": "2027-03-31",
@@ -1172,9 +1173,9 @@
   },
   {
     "date": "2027-04-01",
-    "id": 196,
+    "id": 194,
     "type": "kalambura",
-    "text": "Kažu da sam siv. Ma kakav ja, Sivić."
+    "text": "Siv sam ko Sivić."
   },
   {
     "date": "2027-04-02",
@@ -1184,9 +1185,9 @@
   },
   {
     "date": "2027-04-03",
-    "id": 198,
+    "id": 196,
     "type": "kalambura",
-    "text": "Veseo sam ko Veselić."
+    "text": "Kažu da sam siv. Ma kakav ja, Sivić."
   },
   {
     "date": "2027-04-04",
@@ -1196,9 +1197,9 @@
   },
   {
     "date": "2027-04-05",
-    "id": 200,
+    "id": 198,
     "type": "kalambura",
-    "text": "Kažu da sam veseo. Ma kakav ja, Veselić."
+    "text": "Veseo sam ko Veselić."
   },
   {
     "date": "2027-04-06",
@@ -1208,9 +1209,9 @@
   },
   {
     "date": "2027-04-07",
-    "id": 202,
+    "id": 200,
     "type": "kalambura",
-    "text": "Tužan sam ko Tužić."
+    "text": "Kažu da sam veseo. Ma kakav ja, Veselić."
   },
   {
     "date": "2027-04-08",
@@ -1220,9 +1221,9 @@
   },
   {
     "date": "2027-04-09",
-    "id": 204,
+    "id": 202,
     "type": "kalambura",
-    "text": "Kažu da sam tužan. Ma kakav ja, Tužić."
+    "text": "Tužan sam ko Tužić."
   },
   {
     "date": "2027-04-10",
@@ -1232,9 +1233,9 @@
   },
   {
     "date": "2027-04-11",
-    "id": 206,
+    "id": 204,
     "type": "kalambura",
-    "text": "Ozbiljan sam ko Ozbiljić."
+    "text": "Kažu da sam tužan. Ma kakav ja, Tužić."
   },
   {
     "date": "2027-04-12",
@@ -1244,9 +1245,9 @@
   },
   {
     "date": "2027-04-13",
-    "id": 208,
+    "id": 206,
     "type": "kalambura",
-    "text": "Kažu da sam ozbiljan. Ma kakav ja, Ozbiljić."
+    "text": "Ozbiljan sam ko Ozbiljić."
   },
   {
     "date": "2027-04-14",
@@ -1256,9 +1257,9 @@
   },
   {
     "date": "2027-04-15",
-    "id": 210,
+    "id": 208,
     "type": "kalambura",
-    "text": "Smiješan sam ko Smijehić."
+    "text": "Kažu da sam ozbiljan. Ma kakav ja, Ozbiljić."
   },
   {
     "date": "2027-04-16",
@@ -1268,9 +1269,9 @@
   },
   {
     "date": "2027-04-17",
-    "id": 212,
+    "id": 210,
     "type": "kalambura",
-    "text": "Kažu da sam smiješan. Ma kakav ja, Smijehić."
+    "text": "Smiješan sam ko Smijehić."
   },
   {
     "date": "2027-04-18",
@@ -1280,9 +1281,9 @@
   },
   {
     "date": "2027-04-19",
-    "id": 214,
+    "id": 212,
     "type": "kalambura",
-    "text": "Bogat sam ko Bogatić."
+    "text": "Kažu da sam smiješan. Ma kakav ja, Smijehić."
   },
   {
     "date": "2027-04-20",
@@ -1292,9 +1293,9 @@
   },
   {
     "date": "2027-04-21",
-    "id": 216,
+    "id": 214,
     "type": "kalambura",
-    "text": "Kažu da sam bogat. Ma kakav ja, Bogatić."
+    "text": "Bogat sam ko Bogatić."
   },
   {
     "date": "2027-04-22",
@@ -1304,9 +1305,9 @@
   },
   {
     "date": "2027-04-23",
-    "id": 218,
+    "id": 216,
     "type": "kalambura",
-    "text": "Siromašan sam ko Siromahić."
+    "text": "Kažu da sam bogat. Ma kakav ja, Bogatić."
   },
   {
     "date": "2027-04-24",
@@ -1316,9 +1317,9 @@
   },
   {
     "date": "2027-04-25",
-    "id": 220,
+    "id": 218,
     "type": "kalambura",
-    "text": "Kažu da sam siromašan. Ma kakav ja, Siromahić."
+    "text": "Siromašan sam ko Siromahić."
   },
   {
     "date": "2027-04-26",
@@ -1328,9 +1329,9 @@
   },
   {
     "date": "2027-04-27",
-    "id": 222,
+    "id": 220,
     "type": "kalambura",
-    "text": "Pun sam ko Punić."
+    "text": "Kažu da sam siromašan. Ma kakav ja, Siromahić."
   },
   {
     "date": "2027-04-28",
@@ -1340,9 +1341,9 @@
   },
   {
     "date": "2027-04-29",
-    "id": 224,
+    "id": 222,
     "type": "kalambura",
-    "text": "Kažu da sam pun. Ma kakav ja, Punić."
+    "text": "Pun sam ko Punić."
   },
   {
     "date": "2027-04-30",
@@ -1352,9 +1353,9 @@
   },
   {
     "date": "2027-05-01",
-    "id": 226,
+    "id": 224,
     "type": "kalambura",
-    "text": "Prazan sam ko Praznić."
+    "text": "Kažu da sam pun. Ma kakav ja, Punić."
   },
   {
     "date": "2027-05-02",
@@ -1364,9 +1365,9 @@
   },
   {
     "date": "2027-05-03",
-    "id": 228,
+    "id": 226,
     "type": "kalambura",
-    "text": "Kažu da sam prazan. Ma kakav ja, Praznić."
+    "text": "Prazan sam ko Praznić."
   },
   {
     "date": "2027-05-04",
@@ -1376,9 +1377,9 @@
   },
   {
     "date": "2027-05-05",
-    "id": 230,
+    "id": 228,
     "type": "kalambura",
-    "text": "Gladan sam ko Gladnić."
+    "text": "Kažu da sam prazan. Ma kakav ja, Praznić."
   },
   {
     "date": "2027-05-06",
@@ -1388,9 +1389,9 @@
   },
   {
     "date": "2027-05-07",
-    "id": 232,
+    "id": 230,
     "type": "kalambura",
-    "text": "Kažu da sam gladan. Ma kakav ja, Gladnić."
+    "text": "Gladan sam ko Gladnić."
   },
   {
     "date": "2027-05-08",
@@ -1400,9 +1401,9 @@
   },
   {
     "date": "2027-05-09",
-    "id": 234,
+    "id": 232,
     "type": "kalambura",
-    "text": "Sit sam ko Sitić."
+    "text": "Kažu da sam gladan. Ma kakav ja, Gladnić."
   },
   {
     "date": "2027-05-10",
@@ -1412,9 +1413,9 @@
   },
   {
     "date": "2027-05-11",
-    "id": 236,
+    "id": 234,
     "type": "kalambura",
-    "text": "Kažu da sam sit. Ma kakav ja, Sitić."
+    "text": "Sit sam ko Sitić."
   },
   {
     "date": "2027-05-12",
@@ -1424,9 +1425,9 @@
   },
   {
     "date": "2027-05-13",
-    "id": 238,
+    "id": 236,
     "type": "kalambura",
-    "text": "Žedan sam ko Žednić."
+    "text": "Kažu da sam sit. Ma kakav ja, Sitić."
   },
   {
     "date": "2027-05-14",
@@ -1436,9 +1437,9 @@
   },
   {
     "date": "2027-05-15",
-    "id": 240,
+    "id": 238,
     "type": "kalambura",
-    "text": "Kažu da sam žedan. Ma kakav ja, Žednić."
+    "text": "Žedan sam ko Žednić."
   },
   {
     "date": "2027-05-16",
@@ -1448,9 +1449,9 @@
   },
   {
     "date": "2027-05-17",
-    "id": 242,
+    "id": 240,
     "type": "kalambura",
-    "text": "Umoran sam ko Umorić."
+    "text": "Kažu da sam žedan. Ma kakav ja, Žednić."
   },
   {
     "date": "2027-05-18",
@@ -1460,9 +1461,9 @@
   },
   {
     "date": "2027-05-19",
-    "id": 244,
+    "id": 242,
     "type": "kalambura",
-    "text": "Kažu da sam umoran. Ma kakav ja, Umorić."
+    "text": "Umoran sam ko Umorić."
   },
   {
     "date": "2027-05-20",
@@ -1472,9 +1473,9 @@
   },
   {
     "date": "2027-05-21",
-    "id": 246,
+    "id": 244,
     "type": "kalambura",
-    "text": "Odmoran sam ko Odmorić."
+    "text": "Kažu da sam umoran. Ma kakav ja, Umorić."
   },
   {
     "date": "2027-05-22",
@@ -1484,9 +1485,9 @@
   },
   {
     "date": "2027-05-23",
-    "id": 248,
+    "id": 246,
     "type": "kalambura",
-    "text": "Kažu da sam odmoran. Ma kakav ja, Odmorić."
+    "text": "Odmoran sam ko Odmorić."
   },
   {
     "date": "2027-05-24",
@@ -1496,9 +1497,9 @@
   },
   {
     "date": "2027-05-25",
-    "id": 250,
+    "id": 248,
     "type": "kalambura",
-    "text": "Budan sam ko Budnić."
+    "text": "Kažu da sam odmoran. Ma kakav ja, Odmorić."
   },
   {
     "date": "2027-05-26",
@@ -1508,9 +1509,9 @@
   },
   {
     "date": "2027-05-27",
-    "id": 252,
+    "id": 250,
     "type": "kalambura",
-    "text": "Kažu da sam budan. Ma kakav ja, Budnić."
+    "text": "Budan sam ko Budnić."
   },
   {
     "date": "2027-05-28",
@@ -1520,9 +1521,9 @@
   },
   {
     "date": "2027-05-29",
-    "id": 254,
+    "id": 252,
     "type": "kalambura",
-    "text": "Pospan sam ko Pospanić."
+    "text": "Kažu da sam budan. Ma kakav ja, Budnić."
   },
   {
     "date": "2027-05-30",
@@ -1532,9 +1533,9 @@
   },
   {
     "date": "2027-05-31",
-    "id": 256,
+    "id": 254,
     "type": "kalambura",
-    "text": "Kažu da sam pospan. Ma kakav ja, Pospanić."
+    "text": "Pospan sam ko Pospanić."
   },
   {
     "date": "2027-06-01",
@@ -1544,9 +1545,9 @@
   },
   {
     "date": "2027-06-02",
-    "id": 258,
+    "id": 256,
     "type": "kalambura",
-    "text": "Nervozan sam ko Nervić."
+    "text": "Kažu da sam pospan. Ma kakav ja, Pospanić."
   },
   {
     "date": "2027-06-03",
@@ -1556,9 +1557,9 @@
   },
   {
     "date": "2027-06-04",
-    "id": 260,
+    "id": 258,
     "type": "kalambura",
-    "text": "Kažu da sam nervozan. Ma kakav ja, Nervić."
+    "text": "Nervozan sam ko Nervić."
   },
   {
     "date": "2027-06-05",
@@ -1568,9 +1569,9 @@
   },
   {
     "date": "2027-06-06",
-    "id": 262,
+    "id": 260,
     "type": "kalambura",
-    "text": "Opušten sam ko Opuštić."
+    "text": "Kažu da sam nervozan. Ma kakav ja, Nervić."
   },
   {
     "date": "2027-06-07",
@@ -1580,9 +1581,9 @@
   },
   {
     "date": "2027-06-08",
-    "id": 264,
+    "id": 262,
     "type": "kalambura",
-    "text": "Kažu da sam opušten. Ma kakav ja, Opuštić."
+    "text": "Opušten sam ko Opuštić."
   },
   {
     "date": "2027-06-09",
@@ -1592,9 +1593,9 @@
   },
   {
     "date": "2027-06-10",
-    "id": 266,
+    "id": 264,
     "type": "kalambura",
-    "text": "Hrabar sam ko Hrabrić."
+    "text": "Kažu da sam opušten. Ma kakav ja, Opuštić."
   },
   {
     "date": "2027-06-11",
@@ -1604,9 +1605,9 @@
   },
   {
     "date": "2027-06-12",
-    "id": 268,
+    "id": 266,
     "type": "kalambura",
-    "text": "Kažu da sam hrabar. Ma kakav ja, Hrabrić."
+    "text": "Hrabar sam ko Hrabrić."
   },
   {
     "date": "2027-06-13",
@@ -1616,9 +1617,9 @@
   },
   {
     "date": "2027-06-14",
-    "id": 270,
+    "id": 268,
     "type": "kalambura",
-    "text": "Plašljiv sam ko Plašić."
+    "text": "Kažu da sam hrabar. Ma kakav ja, Hrabrić."
   },
   {
     "date": "2027-06-15",
@@ -1628,9 +1629,9 @@
   },
   {
     "date": "2027-06-16",
-    "id": 272,
+    "id": 270,
     "type": "kalambura",
-    "text": "Kažu da sam plašljiv. Ma kakav ja, Plašić."
+    "text": "Plašljiv sam ko Plašić."
   },
   {
     "date": "2027-06-17",
@@ -1640,9 +1641,9 @@
   },
   {
     "date": "2027-06-18",
-    "id": 274,
+    "id": 272,
     "type": "kalambura",
-    "text": "Pametan sam ko Pametić."
+    "text": "Kažu da sam plašljiv. Ma kakav ja, Plašić."
   },
   {
     "date": "2027-06-19",
@@ -1652,9 +1653,9 @@
   },
   {
     "date": "2027-06-20",
-    "id": 276,
+    "id": 274,
     "type": "kalambura",
-    "text": "Kažu da sam pametan. Ma kakav ja, Pametić."
+    "text": "Pametan sam ko Pametić."
   },
   {
     "date": "2027-06-21",
@@ -1664,9 +1665,9 @@
   },
   {
     "date": "2027-06-22",
-    "id": 278,
+    "id": 276,
     "type": "kalambura",
-    "text": "Glup sam ko Glupić."
+    "text": "Kažu da sam pametan. Ma kakav ja, Pametić."
   },
   {
     "date": "2027-06-23",
@@ -1676,9 +1677,9 @@
   },
   {
     "date": "2027-06-24",
-    "id": 280,
+    "id": 278,
     "type": "kalambura",
-    "text": "Kažu da sam glup. Ma kakav ja, Glupić."
+    "text": "Glup sam ko Glupić."
   },
   {
     "date": "2027-06-25",
@@ -1688,9 +1689,9 @@
   },
   {
     "date": "2027-06-26",
-    "id": 282,
+    "id": 280,
     "type": "kalambura",
-    "text": "Mudar sam ko Mudrić."
+    "text": "Kažu da sam glup. Ma kakav ja, Glupić."
   },
   {
     "date": "2027-06-27",
@@ -1700,9 +1701,9 @@
   },
   {
     "date": "2027-06-28",
-    "id": 284,
+    "id": 282,
     "type": "kalambura",
-    "text": "Kažu da sam mudar. Ma kakav ja, Mudrić."
+    "text": "Mudar sam ko Mudrić."
   },
   {
     "date": "2027-06-29",
@@ -1712,9 +1713,9 @@
   },
   {
     "date": "2027-06-30",
-    "id": 286,
+    "id": 284,
     "type": "kalambura",
-    "text": "Lud sam ko Ludić."
+    "text": "Kažu da sam mudar. Ma kakav ja, Mudrić."
   },
   {
     "date": "2027-07-01",
@@ -1724,9 +1725,9 @@
   },
   {
     "date": "2027-07-02",
-    "id": 288,
+    "id": 286,
     "type": "kalambura",
-    "text": "Kažu da sam lud. Ma kakav ja, Ludić."
+    "text": "Lud sam ko Ludić."
   },
   {
     "date": "2027-07-03",
@@ -1736,9 +1737,9 @@
   },
   {
     "date": "2027-07-04",
-    "id": 290,
+    "id": 288,
     "type": "kalambura",
-    "text": "Dobar sam ko Dobrić."
+    "text": "Kažu da sam lud. Ma kakav ja, Ludić."
   },
   {
     "date": "2027-07-05",
@@ -1748,9 +1749,9 @@
   },
   {
     "date": "2027-07-06",
-    "id": 292,
+    "id": 290,
     "type": "kalambura",
-    "text": "Kažu da sam dobar. Ma kakav ja, Dobrić."
+    "text": "Dobar sam ko Dobrić."
   },
   {
     "date": "2027-07-07",
@@ -1760,9 +1761,9 @@
   },
   {
     "date": "2027-07-08",
-    "id": 294,
+    "id": 292,
     "type": "kalambura",
-    "text": "Loš sam ko Lošić."
+    "text": "Kažu da sam dobar. Ma kakav ja, Dobrić."
   },
   {
     "date": "2027-07-09",
@@ -1772,9 +1773,9 @@
   },
   {
     "date": "2027-07-10",
-    "id": 296,
+    "id": 294,
     "type": "kalambura",
-    "text": "Kažu da sam loš. Ma kakav ja, Lošić."
+    "text": "Loš sam ko Lošić."
   },
   {
     "date": "2027-07-11",
@@ -1784,9 +1785,9 @@
   },
   {
     "date": "2027-07-12",
-    "id": 298,
+    "id": 296,
     "type": "kalambura",
-    "text": "Fin sam ko Finić."
+    "text": "Kažu da sam loš. Ma kakav ja, Lošić."
   },
   {
     "date": "2027-07-13",
@@ -1796,9 +1797,9 @@
   },
   {
     "date": "2027-07-14",
-    "id": 300,
+    "id": 298,
     "type": "kalambura",
-    "text": "Kažu da sam fin. Ma kakav ja, Finić."
+    "text": "Fin sam ko Finić."
   },
   {
     "date": "2027-07-15",
@@ -1808,9 +1809,9 @@
   },
   {
     "date": "2027-07-16",
-    "id": 302,
+    "id": 300,
     "type": "kalambura",
-    "text": "Grub sam ko Grubić."
+    "text": "Kažu da sam fin. Ma kakav ja, Finić."
   },
   {
     "date": "2027-07-17",
@@ -1820,9 +1821,9 @@
   },
   {
     "date": "2027-07-18",
-    "id": 304,
+    "id": 302,
     "type": "kalambura",
-    "text": "Kažu da sam grub. Ma kakav ja, Grubić."
+    "text": "Grub sam ko Grubić."
   },
   {
     "date": "2027-07-19",
@@ -1832,9 +1833,9 @@
   },
   {
     "date": "2027-07-20",
-    "id": 306,
+    "id": 304,
     "type": "kalambura",
-    "text": "Nježan sam ko Nježnić."
+    "text": "Kažu da sam grub. Ma kakav ja, Grubić."
   },
   {
     "date": "2027-07-21",
@@ -1844,9 +1845,9 @@
   },
   {
     "date": "2027-07-22",
-    "id": 308,
+    "id": 306,
     "type": "kalambura",
-    "text": "Kažu da sam nježan. Ma kakav ja, Nježnić."
+    "text": "Nježan sam ko Nježnić."
   },
   {
     "date": "2027-07-23",
@@ -1856,9 +1857,9 @@
   },
   {
     "date": "2027-07-24",
-    "id": 310,
+    "id": 308,
     "type": "kalambura",
-    "text": "Čvrst sam ko Čvrstić."
+    "text": "Kažu da sam nježan. Ma kakav ja, Nježnić."
   },
   {
     "date": "2027-07-25",
@@ -1868,9 +1869,9 @@
   },
   {
     "date": "2027-07-26",
-    "id": 312,
+    "id": 310,
     "type": "kalambura",
-    "text": "Kažu da sam čvrst. Ma kakav ja, Čvrstić."
+    "text": "Čvrst sam ko Čvrstić."
   },
   {
     "date": "2027-07-27",
@@ -1880,9 +1881,9 @@
   },
   {
     "date": "2027-07-28",
-    "id": 314,
+    "id": 312,
     "type": "kalambura",
-    "text": "Uredan sam ko Urednić."
+    "text": "Kažu da sam čvrst. Ma kakav ja, Čvrstić."
   },
   {
     "date": "2027-07-29",
@@ -1892,9 +1893,9 @@
   },
   {
     "date": "2027-07-30",
-    "id": 316,
+    "id": 314,
     "type": "kalambura",
-    "text": "Kažu da sam uredan. Ma kakav ja, Urednić."
+    "text": "Uredan sam ko Urednić."
   },
   {
     "date": "2027-07-31",
@@ -1904,9 +1905,9 @@
   },
   {
     "date": "2027-08-01",
-    "id": 318,
+    "id": 316,
     "type": "kalambura",
-    "text": "Neuredan sam ko Nerednić."
+    "text": "Kažu da sam uredan. Ma kakav ja, Urednić."
   },
   {
     "date": "2027-08-02",
@@ -1916,9 +1917,9 @@
   },
   {
     "date": "2027-08-03",
-    "id": 320,
+    "id": 318,
     "type": "kalambura",
-    "text": "Kažu da sam neuredan. Ma kakav ja, Nerednić."
+    "text": "Neuredan sam ko Nerednić."
   },
   {
     "date": "2027-08-04",
@@ -1928,9 +1929,9 @@
   },
   {
     "date": "2027-08-05",
-    "id": 322,
+    "id": 320,
     "type": "kalambura",
-    "text": "Točan sam ko Točnić."
+    "text": "Kažu da sam neuredan. Ma kakav ja, Nerednić."
   },
   {
     "date": "2027-08-06",
@@ -1940,9 +1941,9 @@
   },
   {
     "date": "2027-08-07",
-    "id": 324,
+    "id": 322,
     "type": "kalambura",
-    "text": "Kažu da sam točan. Ma kakav ja, Točnić."
+    "text": "Točan sam ko Točnić."
   },
   {
     "date": "2027-08-08",
@@ -1952,9 +1953,9 @@
   },
   {
     "date": "2027-08-09",
-    "id": 326,
+    "id": 324,
     "type": "kalambura",
-    "text": "Kasni sam ko Kasnić."
+    "text": "Kažu da sam točan. Ma kakav ja, Točnić."
   },
   {
     "date": "2027-08-10",
@@ -1964,9 +1965,9 @@
   },
   {
     "date": "2027-08-11",
-    "id": 328,
+    "id": 326,
     "type": "kalambura",
-    "text": "Kažu da sam kasni. Ma kakav ja, Kasnić."
+    "text": "Kasni sam ko Kasnić."
   },
   {
     "date": "2027-08-12",
@@ -1976,9 +1977,9 @@
   },
   {
     "date": "2027-08-13",
-    "id": 330,
+    "id": 328,
     "type": "kalambura",
-    "text": "Ran sam ko Ranić."
+    "text": "Kažu da sam kasni. Ma kakav ja, Kasnić."
   },
   {
     "date": "2027-08-14",
@@ -1988,9 +1989,9 @@
   },
   {
     "date": "2027-08-15",
-    "id": 332,
+    "id": 330,
     "type": "kalambura",
-    "text": "Kažu da sam ran. Ma kakav ja, Ranić."
+    "text": "Ran sam ko Ranić."
   },
   {
     "date": "2027-08-16",
@@ -2000,9 +2001,9 @@
   },
   {
     "date": "2027-08-17",
-    "id": 334,
+    "id": 332,
     "type": "kalambura",
-    "text": "Glasan sam ko Glasnić."
+    "text": "Kažu da sam ran. Ma kakav ja, Ranić."
   },
   {
     "date": "2027-08-18",
@@ -2012,9 +2013,9 @@
   },
   {
     "date": "2027-08-19",
-    "id": 336,
+    "id": 334,
     "type": "kalambura",
-    "text": "Kažu da sam glasan. Ma kakav ja, Glasnić."
+    "text": "Glasan sam ko Glasnić."
   },
   {
     "date": "2027-08-20",
@@ -2024,9 +2025,9 @@
   },
   {
     "date": "2027-08-21",
-    "id": 338,
+    "id": 336,
     "type": "kalambura",
-    "text": "Mirisan sam ko Mirisić."
+    "text": "Kažu da sam glasan. Ma kakav ja, Glasnić."
   },
   {
     "date": "2027-08-22",
@@ -2036,9 +2037,9 @@
   },
   {
     "date": "2027-08-23",
-    "id": 340,
+    "id": 338,
     "type": "kalambura",
-    "text": "Kažu da sam mirisan. Ma kakav ja, Mirisić."
+    "text": "Mirisan sam ko Mirisić."
   },
   {
     "date": "2027-08-24",
@@ -2048,9 +2049,9 @@
   },
   {
     "date": "2027-08-25",
-    "id": 342,
+    "id": 340,
     "type": "kalambura",
-    "text": "Smrdljiv sam ko Smrdić."
+    "text": "Kažu da sam mirisan. Ma kakav ja, Mirisić."
   },
   {
     "date": "2027-08-26",
@@ -2060,9 +2061,9 @@
   },
   {
     "date": "2027-08-27",
-    "id": 344,
+    "id": 342,
     "type": "kalambura",
-    "text": "Kažu da sam smrdljiv. Ma kakav ja, Smrdić."
+    "text": "Smrdljiv sam ko Smrdić."
   },
   {
     "date": "2027-08-28",
@@ -2072,9 +2073,9 @@
   },
   {
     "date": "2027-08-29",
-    "id": 346,
+    "id": 344,
     "type": "kalambura",
-    "text": "Bradat sam ko Bradić."
+    "text": "Kažu da sam smrdljiv. Ma kakav ja, Smrdić."
   },
   {
     "date": "2027-08-30",
@@ -2084,9 +2085,9 @@
   },
   {
     "date": "2027-08-31",
-    "id": 348,
+    "id": 346,
     "type": "kalambura",
-    "text": "Kažu da sam bradat. Ma kakav ja, Bradić."
+    "text": "Bradat sam ko Bradić."
   },
   {
     "date": "2027-09-01",
@@ -2096,9 +2097,9 @@
   },
   {
     "date": "2027-09-02",
-    "id": 350,
+    "id": 348,
     "type": "kalambura",
-    "text": "Ćelav sam ko Ćelić."
+    "text": "Kažu da sam bradat. Ma kakav ja, Bradić."
   },
   {
     "date": "2027-09-03",
@@ -2108,9 +2109,9 @@
   },
   {
     "date": "2027-09-04",
-    "id": 352,
+    "id": 350,
     "type": "kalambura",
-    "text": "Kažu da sam ćelav. Ma kakav ja, Ćelić."
+    "text": "Ćelav sam ko Ćelić."
   },
   {
     "date": "2027-09-05",
@@ -2120,9 +2121,9 @@
   },
   {
     "date": "2027-09-06",
-    "id": 354,
+    "id": 352,
     "type": "kalambura",
-    "text": "Debeo sam ko Debelić."
+    "text": "Kažu da sam ćelav. Ma kakav ja, Ćelić."
   },
   {
     "date": "2027-09-07",
@@ -2132,9 +2133,9 @@
   },
   {
     "date": "2027-09-08",
-    "id": 356,
+    "id": 354,
     "type": "kalambura",
-    "text": "Kažu da sam debeo. Ma kakav ja, Debelić."
+    "text": "Debeo sam ko Debelić."
   },
   {
     "date": "2027-09-09",
@@ -2144,9 +2145,9 @@
   },
   {
     "date": "2027-09-10",
-    "id": 358,
+    "id": 356,
     "type": "kalambura",
-    "text": "Mršav sam ko Mršavić."
+    "text": "Kažu da sam debeo. Ma kakav ja, Debelić."
   },
   {
     "date": "2027-09-11",
@@ -2156,9 +2157,9 @@
   },
   {
     "date": "2027-09-12",
-    "id": 360,
+    "id": 358,
     "type": "kalambura",
-    "text": "Kažu da sam mršav. Ma kakav ja, Mršavić."
+    "text": "Mršav sam ko Mršavić."
   },
   {
     "date": "2027-09-13",
@@ -2168,9 +2169,9 @@
   },
   {
     "date": "2027-09-14",
-    "id": 362,
+    "id": 360,
     "type": "kalambura",
-    "text": "Okrugao sam ko Okruglić."
+    "text": "Kažu da sam mršav. Ma kakav ja, Mršavić."
   },
   {
     "date": "2027-09-15",
@@ -2180,14 +2181,20 @@
   },
   {
     "date": "2027-09-16",
-    "id": 364,
+    "id": 362,
     "type": "kalambura",
-    "text": "Kažu da sam okrugao. Ma kakav ja, Okruglić."
+    "text": "Okrugao sam ko Okruglić."
   },
   {
     "date": "2027-09-17",
     "id": 365,
     "type": "vic",
     "text": "Na poslu su rekli da je ovo clean solution. Folder se zove temp2_final."
+  },
+  {
+    "date": "2027-09-18",
+    "id": 364,
+    "type": "kalambura",
+    "text": "Kažu da sam okrugao. Ma kakav ja, Okruglić."
   }
 ]
