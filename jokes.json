@@ -78,10 +78,10 @@
   },
   {
     "date": "2026-09-30",
-    "id": 368,
+    "id": 371,
     "type": "vic",
-    "text": "Ukoliko dobro pogledaš na \nMrzlu pivu u pustinji\nGdje su po njoj kapljice?\nNiska točka rosišta",
-    "author": "Nedođivi"
+    "text": "VicHrvatskiDatum",
+    "author": "Test6"
   },
   {
     "date": "2026-10-01",
@@ -91,9 +91,10 @@
   },
   {
     "date": "2026-10-02",
-    "id": 7,
+    "id": 368,
     "type": "vic",
-    "text": "Uveo sam red u život. Sad čekam."
+    "text": "Ukoliko dobro pogledaš na \nMrzlu pivu u pustinji\nGdje su po njoj kapljice?\nNiska točka rosišta",
+    "author": "Nedođivi"
   },
   {
     "date": "2026-10-03",
@@ -103,9 +104,9 @@
   },
   {
     "date": "2026-10-04",
-    "id": 9,
+    "id": 7,
     "type": "vic",
-    "text": "Ide Amer, Rus, Kongac, Malac, Togac i Obalo bjelokoštanin. Kaže Somalac, zašto ti Malac ne dođeš obavezno?"
+    "text": "Uveo sam red u život. Sad čekam."
   },
   {
     "date": "2026-10-05",
@@ -115,9 +116,9 @@
   },
   {
     "date": "2026-10-06",
-    "id": 11,
+    "id": 9,
     "type": "vic",
-    "text": "Odlučio sam manje brinuti. Sad brinem jesam li dovoljno malo zabrinut."
+    "text": "Ide Amer, Rus, Kongac, Malac, Togac i Obalo bjelokoštanin. Kaže Somalac, zašto ti Malac ne dođeš obavezno?"
   },
   {
     "date": "2026-10-07",
@@ -127,9 +128,9 @@
   },
   {
     "date": "2026-10-08",
-    "id": 13,
+    "id": 11,
     "type": "vic",
-    "text": "Ugasio sam sve notifikacije. Sad ih ručno provjeravam."
+    "text": "Odlučio sam manje brinuti. Sad brinem jesam li dovoljno malo zabrinut."
   },
   {
     "date": "2026-10-09",
@@ -139,9 +140,9 @@
   },
   {
     "date": "2026-10-10",
-    "id": 15,
+    "id": 13,
     "type": "vic",
-    "text": "Prestao sam multitaskati. Sad politaskam."
+    "text": "Ugasio sam sve notifikacije. Sad ih ručno provjeravam."
   },
   {
     "date": "2026-10-11",
@@ -151,9 +152,9 @@
   },
   {
     "date": "2026-10-12",
-    "id": 17,
+    "id": 15,
     "type": "vic",
-    "text": "Kupio sam bežične slušalice. Sad tražim obje odvojeno."
+    "text": "Prestao sam multitaskati. Sad politaskam."
   },
   {
     "date": "2026-10-13",
@@ -163,9 +164,9 @@
   },
   {
     "date": "2026-10-14",
-    "id": 19,
+    "id": 17,
     "type": "vic",
-    "text": "Na poslu su rekli da mislim izvan okvira. Poslali su mi Excel tablicu."
+    "text": "Kupio sam bežične slušalice. Sad tražim obje odvojeno."
   },
   {
     "date": "2026-10-15",
@@ -175,9 +176,9 @@
   },
   {
     "date": "2026-10-16",
-    "id": 21,
+    "id": 19,
     "type": "vic",
-    "text": "Printer ne radi. Restartao sam ga. Sad ne radi od početka."
+    "text": "Na poslu su rekli da mislim izvan okvira. Poslali su mi Excel tablicu."
   },
   {
     "date": "2026-10-17",
@@ -187,9 +188,9 @@
   },
   {
     "date": "2026-10-18",
-    "id": 23,
+    "id": 21,
     "type": "vic",
-    "text": "Kupio sam aparat koji štedi vrijeme. Na to će žaba, kre kre, okrene se i pobježe"
+    "text": "Printer ne radi. Restartao sam ga. Sad ne radi od početka."
   },
   {
     "date": "2026-10-19",
@@ -199,9 +200,9 @@
   },
   {
     "date": "2026-10-20",
-    "id": 25,
+    "id": 23,
     "type": "vic",
-    "text": "Na vratima lifta piše „maksimalno 8 osoba”. Nos ti posran."
+    "text": "Kupio sam aparat koji štedi vrijeme. Na to će žaba, kre kre, okrene se i pobježe"
   },
   {
     "date": "2026-10-21",
@@ -211,9 +212,9 @@
   },
   {
     "date": "2026-10-22",
-    "id": 27,
+    "id": 25,
     "type": "vic",
-    "text": "Na karti piše „ovdje ste”. Nisam ja  ovdje ste, ja sam Ljudevit."
+    "text": "Na vratima lifta piše „maksimalno 8 osoba”. Nos ti posran."
   },
   {
     "date": "2026-10-23",
@@ -223,9 +224,9 @@
   },
   {
     "date": "2026-10-24",
-    "id": 29,
+    "id": 27,
     "type": "vic",
-    "text": "U restoranu piše „domaća kuhinja”. Nitko mi nije dao daljinski."
+    "text": "Na karti piše „ovdje ste”. Nisam ja  ovdje ste, ja sam Ljudevit."
   },
   {
     "date": "2026-10-25",
@@ -235,9 +236,9 @@
   },
   {
     "date": "2026-10-26",
-    "id": 31,
+    "id": 29,
     "type": "vic",
-    "text": "Na sastanku smo svi bili za promjene, pod uvjetom da se ništa ne mijenja."
+    "text": "U restoranu piše „domaća kuhinja”. Nitko mi nije dao daljinski."
   },
   {
     "date": "2026-10-27",
@@ -247,9 +248,9 @@
   },
   {
     "date": "2026-10-28",
-    "id": 33,
+    "id": 31,
     "type": "vic",
-    "text": "Pitao sam koliko traje „kratko”. Rekli su: dovoljno."
+    "text": "Na sastanku smo svi bili za promjene, pod uvjetom da se ništa ne mijenja."
   },
   {
     "date": "2026-10-29",
@@ -259,9 +260,9 @@
   },
   {
     "date": "2026-10-30",
-    "id": 35,
+    "id": 33,
     "type": "vic",
-    "text": "Čekao sam odgovor korisničke podrške toliko dugo da sam postao dugogodišnji korisnik."
+    "text": "Pitao sam koliko traje „kratko”. Rekli su: dovoljno."
   },
   {
     "date": "2026-10-31",
@@ -271,9 +272,9 @@
   },
   {
     "date": "2026-11-01",
-    "id": 37,
+    "id": 35,
     "type": "vic",
-    "text": "Doktor kaže da trebam manje sjediti. Ofarbao sam kosu."
+    "text": "Čekao sam odgovor korisničke podrške toliko dugo da sam postao dugogodišnji korisnik."
   },
   {
     "date": "2026-11-02",
@@ -283,9 +284,9 @@
   },
   {
     "date": "2026-11-03",
-    "id": 39,
+    "id": 37,
     "type": "vic",
-    "text": "Uzeo sam godišnji da se odmorim. Žaba će na to kre kre kre, a lav stoji u grmu."
+    "text": "Doktor kaže da trebam manje sjediti. Ofarbao sam kosu."
   },
   {
     "date": "2026-11-04",
@@ -295,9 +296,9 @@
   },
   {
     "date": "2026-11-05",
-    "id": 41,
+    "id": 39,
     "type": "vic",
-    "text": "Rekli su mi da izađem iz zone komfora. Vratio sam se nakon kave."
+    "text": "Uzeo sam godišnji da se odmorim. Žaba će na to kre kre kre, a lav stoji u grmu."
   },
   {
     "date": "2026-11-06",
@@ -307,9 +308,9 @@
   },
   {
     "date": "2026-11-07",
-    "id": 43,
+    "id": 41,
     "type": "vic",
-    "text": "Napravio sam popis stvari koje trebam prestati odgađati. Sutra ga čitam."
+    "text": "Rekli su mi da izađem iz zone komfora. Vratio sam se nakon kave."
   },
   {
     "date": "2026-11-08",
@@ -319,9 +320,9 @@
   },
   {
     "date": "2026-11-09",
-    "id": 45,
+    "id": 43,
     "type": "vic",
-    "text": "Odlučio sam manje trošiti. Prvo sam kupio bilježnicu za praćenje troškova."
+    "text": "Napravio sam popis stvari koje trebam prestati odgađati. Sutra ga čitam."
   },
   {
     "date": "2026-11-10",
@@ -331,9 +332,9 @@
   },
   {
     "date": "2026-11-11",
-    "id": 47,
+    "id": 45,
     "type": "vic",
-    "text": "Kupio sam sat koji prati san. Sad točno znam koliko se loše naspavam."
+    "text": "Odlučio sam manje trošiti. Prvo sam kupio bilježnicu za praćenje troškova."
   },
   {
     "date": "2026-11-12",
@@ -343,9 +344,9 @@
   },
   {
     "date": "2026-11-13",
-    "id": 49,
+    "id": 47,
     "type": "vic",
-    "text": "Pokušao sam manje pričati. Sad šutim opširnije."
+    "text": "Kupio sam sat koji prati san. Sad točno znam koliko se loše naspavam."
   },
   {
     "date": "2026-11-14",
@@ -355,9 +356,9 @@
   },
   {
     "date": "2026-11-15",
-    "id": 51,
+    "id": 49,
     "type": "vic",
-    "text": "Počeo sam piti više vode. Sad češće ustajem od stola. Napredak."
+    "text": "Pokušao sam manje pričati. Sad šutim opširnije."
   },
   {
     "date": "2026-11-16",
@@ -367,9 +368,9 @@
   },
   {
     "date": "2026-11-17",
-    "id": 53,
+    "id": 51,
     "type": "vic",
-    "text": "Odlučio sam kuhati zdravije. Naručio sam salatu uz pizzu."
+    "text": "Počeo sam piti više vode. Sad češće ustajem od stola. Napredak."
   },
   {
     "date": "2026-11-18",
@@ -379,9 +380,9 @@
   },
   {
     "date": "2026-11-19",
-    "id": 55,
+    "id": 53,
     "type": "vic",
-    "text": "Naučio sam reći „ne”. Sad samo moram naučiti kome."
+    "text": "Odlučio sam kuhati zdravije. Naručio sam salatu uz pizzu."
   },
   {
     "date": "2026-11-20",
@@ -391,9 +392,9 @@
   },
   {
     "date": "2026-11-21",
-    "id": 57,
+    "id": 55,
     "type": "vic",
-    "text": "U trgovini kažu „zadnji komad”. Očito svi proizvodi imaju dramatičan završetak."
+    "text": "Naučio sam reći „ne”. Sad samo moram naučiti kome."
   },
   {
     "date": "2026-11-22",
@@ -403,9 +404,9 @@
   },
   {
     "date": "2026-11-23",
-    "id": 59,
+    "id": 57,
     "type": "vic",
-    "text": "Na tehničkom su rekli da auto ima sitan problem. Auto se složio da je problem sitan, račun nije."
+    "text": "U trgovini kažu „zadnji komad”. Očito svi proizvodi imaju dramatičan završetak."
   },
   {
     "date": "2026-11-24",
@@ -415,9 +416,9 @@
   },
   {
     "date": "2026-11-25",
-    "id": 61,
+    "id": 59,
     "type": "vic",
-    "text": "Na vratima piše „guraj”. Povukao sam. Ne volim autoritet."
+    "text": "Na tehničkom su rekli da auto ima sitan problem. Auto se složio da je problem sitan, račun nije."
   },
   {
     "date": "2026-11-26",
@@ -427,9 +428,9 @@
   },
   {
     "date": "2026-11-27",
-    "id": 63,
+    "id": 61,
     "type": "vic",
-    "text": "Na poslu su optimizirali proces. Sad imamo dva procesa."
+    "text": "Na vratima piše „guraj”. Povukao sam. Ne volim autoritet."
   },
   {
     "date": "2026-11-28",
@@ -439,9 +440,9 @@
   },
   {
     "date": "2026-11-29",
-    "id": 65,
+    "id": 63,
     "type": "vic",
-    "text": "Na sastanku smo uskladili očekivanja. Svi sad očekujemo manje."
+    "text": "Na poslu su optimizirali proces. Sad imamo dva procesa."
   },
   {
     "date": "2026-11-30",
@@ -451,9 +452,9 @@
   },
   {
     "date": "2026-12-01",
-    "id": 67,
+    "id": 65,
     "type": "vic",
-    "text": "U banci su mi ponudili paket. Nisam znao da sam naručio internet."
+    "text": "Na sastanku smo uskladili očekivanja. Svi sad očekujemo manje."
   },
   {
     "date": "2026-12-02",
@@ -463,9 +464,9 @@
   },
   {
     "date": "2026-12-03",
-    "id": 69,
+    "id": 67,
     "type": "vic",
-    "text": "U uredu su rekli da nema glupih pitanja. Sastanak je trajao dva sata."
+    "text": "U banci su mi ponudili paket. Nisam znao da sam naručio internet."
   },
   {
     "date": "2026-12-04",
@@ -475,9 +476,9 @@
   },
   {
     "date": "2026-12-05",
-    "id": 71,
+    "id": 69,
     "type": "vic",
-    "text": "Čitam uvjete korištenja. Još uvijek ne znam čega."
+    "text": "U uredu su rekli da nema glupih pitanja. Sastanak je trajao dva sata."
   },
   {
     "date": "2026-12-06",
@@ -487,9 +488,9 @@
   },
   {
     "date": "2026-12-07",
-    "id": 73,
+    "id": 71,
     "type": "vic",
-    "text": "Kupio sam stol koji se sam sastavlja. Laž je već bila sastavljena."
+    "text": "Čitam uvjete korištenja. Još uvijek ne znam čega."
   },
   {
     "date": "2026-12-08",
@@ -499,9 +500,9 @@
   },
   {
     "date": "2026-12-09",
-    "id": 75,
+    "id": 73,
     "type": "vic",
-    "text": "Na vratima piše „radno vrijeme 8–16”. U 15:45 to postaje filozofsko pitanje."
+    "text": "Kupio sam stol koji se sam sastavlja. Laž je već bila sastavljena."
   },
   {
     "date": "2026-12-10",
@@ -511,9 +512,9 @@
   },
   {
     "date": "2026-12-11",
-    "id": 77,
+    "id": 75,
     "type": "vic",
-    "text": "Na poslu su rekli da moramo biti agilni. Stolice su ostale iste."
+    "text": "Na vratima piše „radno vrijeme 8–16”. U 15:45 to postaje filozofsko pitanje."
   },
   {
     "date": "2026-12-12",
@@ -523,9 +524,9 @@
   },
   {
     "date": "2026-12-13",
-    "id": 79,
+    "id": 77,
     "type": "vic",
-    "text": "Kad netko kaže „nije hitno”, obično znači da je bilo hitno jučer."
+    "text": "Na poslu su rekli da moramo biti agilni. Stolice su ostale iste."
   },
   {
     "date": "2026-12-14",
@@ -535,9 +536,9 @@
   },
   {
     "date": "2026-12-15",
-    "id": 81,
+    "id": 79,
     "type": "vic",
-    "text": "Na sastanku je bilo puno dobrih ideja. Nitko ih nije prepoznao."
+    "text": "Kad netko kaže „nije hitno”, obično znači da je bilo hitno jučer."
   },
   {
     "date": "2026-12-16",
@@ -547,9 +548,9 @@
   },
   {
     "date": "2026-12-17",
-    "id": 83,
+    "id": 81,
     "type": "vic",
-    "text": "Pročitao sam upute do kraja. Sad imam više pitanja nego dijelova."
+    "text": "Na sastanku je bilo puno dobrih ideja. Nitko ih nije prepoznao."
   },
   {
     "date": "2026-12-18",
@@ -559,9 +560,9 @@
   },
   {
     "date": "2026-12-19",
-    "id": 85,
+    "id": 83,
     "type": "vic",
-    "text": "U aplikaciji postoji opcija „preskoči”. To mi je omiljena funkcija."
+    "text": "Pročitao sam upute do kraja. Sad imam više pitanja nego dijelova."
   },
   {
     "date": "2026-12-20",
@@ -571,9 +572,9 @@
   },
   {
     "date": "2026-12-21",
-    "id": 87,
+    "id": 85,
     "type": "vic",
-    "text": "Na laptopu imam 16 GB RAM-a. Chrome ima planove."
+    "text": "U aplikaciji postoji opcija „preskoči”. To mi je omiljena funkcija."
   },
   {
     "date": "2026-12-22",
@@ -583,9 +584,9 @@
   },
   {
     "date": "2026-12-23",
-    "id": 89,
+    "id": 87,
     "type": "vic",
-    "text": "Na računu mi piše „hvala na kupnji”. Nema na čemu, nisam imao izbora."
+    "text": "Na laptopu imam 16 GB RAM-a. Chrome ima planove."
   },
   {
     "date": "2026-12-24",
@@ -595,9 +596,9 @@
   },
   {
     "date": "2026-12-25",
-    "id": 91,
+    "id": 89,
     "type": "vic",
-    "text": "U restoranu su rekli da je jelo gotovo odmah. I bilo je gotovo s mojim strpljenjem."
+    "text": "Na računu mi piše „hvala na kupnji”. Nema na čemu, nisam imao izbora."
   },
   {
     "date": "2026-12-26",
@@ -607,9 +608,9 @@
   },
   {
     "date": "2026-12-27",
-    "id": 93,
+    "id": 91,
     "type": "vic",
-    "text": "Na sastanku su svi imali otvorene laptope. Nitko nije imao otvoren problem."
+    "text": "U restoranu su rekli da je jelo gotovo odmah. I bilo je gotovo s mojim strpljenjem."
   },
   {
     "date": "2026-12-28",
@@ -619,9 +620,9 @@
   },
   {
     "date": "2026-12-29",
-    "id": 95,
+    "id": 93,
     "type": "vic",
-    "text": "Na poslu su rekli da je komunikacija ključna. Nitko nije poslao ključ."
+    "text": "Na sastanku su svi imali otvorene laptope. Nitko nije imao otvoren problem."
   },
   {
     "date": "2026-12-30",
@@ -631,9 +632,9 @@
   },
   {
     "date": "2026-12-31",
-    "id": 97,
+    "id": 95,
     "type": "vic",
-    "text": "Na bankomatu piše „molimo pričekajte”. Kao da imam alternativu."
+    "text": "Na poslu su rekli da je komunikacija ključna. Nitko nije poslao ključ."
   },
   {
     "date": "2027-01-01",
@@ -643,9 +644,9 @@
   },
   {
     "date": "2027-01-02",
-    "id": 99,
+    "id": 97,
     "type": "vic",
-    "text": "Na poslu imamo brainstorming. Uglavnom pada kiša."
+    "text": "Na bankomatu piše „molimo pričekajte”. Kao da imam alternativu."
   },
   {
     "date": "2027-01-03",
@@ -655,9 +656,9 @@
   },
   {
     "date": "2027-01-04",
-    "id": 101,
+    "id": 99,
     "type": "vic",
-    "text": "Na sastanku smo riješili problem tako da smo ga preimenovali."
+    "text": "Na poslu imamo brainstorming. Uglavnom pada kiša."
   },
   {
     "date": "2027-01-05",
@@ -667,9 +668,9 @@
   },
   {
     "date": "2027-01-06",
-    "id": 103,
+    "id": 101,
     "type": "vic",
-    "text": "U restoranu sam tražio nešto lagano. Donijeli su račun."
+    "text": "Na sastanku smo riješili problem tako da smo ga preimenovali."
   },
   {
     "date": "2027-01-07",
@@ -679,9 +680,9 @@
   },
   {
     "date": "2027-01-08",
-    "id": 105,
+    "id": 103,
     "type": "vic",
-    "text": "Na poslu su rekli da moramo raditi pametnije, ne više. Nitko nije rekao kako."
+    "text": "U restoranu sam tražio nešto lagano. Donijeli su račun."
   },
   {
     "date": "2027-01-09",
@@ -691,9 +692,9 @@
   },
   {
     "date": "2027-01-10",
-    "id": 107,
+    "id": 105,
     "type": "vic",
-    "text": "Na poslu se sve može. Samo treba odobrenje."
+    "text": "Na poslu su rekli da moramo raditi pametnije, ne više. Nitko nije rekao kako."
   },
   {
     "date": "2027-01-11",
@@ -703,9 +704,9 @@
   },
   {
     "date": "2027-01-12",
-    "id": 109,
+    "id": 107,
     "type": "vic",
-    "text": "Na internetu piše „besplatno”. Kartica se nije složila."
+    "text": "Na poslu se sve može. Samo treba odobrenje."
   },
   {
     "date": "2027-01-13",
@@ -715,9 +716,9 @@
   },
   {
     "date": "2027-01-14",
-    "id": 111,
+    "id": 109,
     "type": "vic",
-    "text": "Na šalteru sam pitao mogu li bez papira. Rekli su: može, samo trebate isprintati zahtjev."
+    "text": "Na internetu piše „besplatno”. Kartica se nije složila."
   },
   {
     "date": "2027-01-15",
@@ -727,9 +728,9 @@
   },
   {
     "date": "2027-01-16",
-    "id": 113,
+    "id": 111,
     "type": "vic",
-    "text": "Na računu piše „usluga obrade”. Nisam znao da sam bio sirov."
+    "text": "Na šalteru sam pitao mogu li bez papira. Rekli su: može, samo trebate isprintati zahtjev."
   },
   {
     "date": "2027-01-17",
@@ -739,9 +740,9 @@
   },
   {
     "date": "2027-01-18",
-    "id": 115,
+    "id": 113,
     "type": "vic",
-    "text": "Na sastanku smo dogovorili rok. Rok nije bio prisutan."
+    "text": "Na računu piše „usluga obrade”. Nisam znao da sam bio sirov."
   },
   {
     "date": "2027-01-19",
@@ -751,9 +752,9 @@
   },
   {
     "date": "2027-01-20",
-    "id": 117,
+    "id": 115,
     "type": "vic",
-    "text": "Na webu piše „kliknite ovdje”. Kliknuo sam. Sad piše „vratite se”."
+    "text": "Na sastanku smo dogovorili rok. Rok nije bio prisutan."
   },
   {
     "date": "2027-01-21",
@@ -763,9 +764,9 @@
   },
   {
     "date": "2027-01-22",
-    "id": 119,
+    "id": 117,
     "type": "vic",
-    "text": "U restoranu sam pitao što preporučuju. Rekli su: rezervaciju."
+    "text": "Na webu piše „kliknite ovdje”. Kliknuo sam. Sad piše „vratite se”."
   },
   {
     "date": "2027-01-23",
@@ -775,9 +776,9 @@
   },
   {
     "date": "2027-01-24",
-    "id": 121,
+    "id": 119,
     "type": "vic",
-    "text": "Na sastanku je sve bilo jasno. Zato smo poslije svi pitali isto."
+    "text": "U restoranu sam pitao što preporučuju. Rekli su: rezervaciju."
   },
   {
     "date": "2027-01-25",
@@ -787,9 +788,9 @@
   },
   {
     "date": "2027-01-26",
-    "id": 123,
+    "id": 121,
     "type": "vic",
-    "text": "U aplikaciji piše „još samo jedan korak”. To je četvrti put."
+    "text": "Na sastanku je sve bilo jasno. Zato smo poslije svi pitali isto."
   },
   {
     "date": "2027-01-27",
@@ -799,9 +800,9 @@
   },
   {
     "date": "2027-01-28",
-    "id": 125,
+    "id": 123,
     "type": "vic",
-    "text": "U trgovini sam pitao imaju li nešto jeftinije. Pokazali su mi izlaz."
+    "text": "U aplikaciji piše „još samo jedan korak”. To je četvrti put."
   },
   {
     "date": "2027-01-29",
@@ -811,9 +812,9 @@
   },
   {
     "date": "2027-01-30",
-    "id": 127,
+    "id": 125,
     "type": "vic",
-    "text": "Na poslu smo svi dio tima. Neki su više dio Excela."
+    "text": "U trgovini sam pitao imaju li nešto jeftinije. Pokazali su mi izlaz."
   },
   {
     "date": "2027-01-31",
@@ -823,9 +824,9 @@
   },
   {
     "date": "2027-02-01",
-    "id": 129,
+    "id": 127,
     "type": "vic",
-    "text": "Na laptopu piše „update and restart”. Znači vidimo se sutra."
+    "text": "Na poslu smo svi dio tima. Neki su više dio Excela."
   },
   {
     "date": "2027-02-02",
@@ -835,9 +836,9 @@
   },
   {
     "date": "2027-02-03",
-    "id": 131,
+    "id": 129,
     "type": "vic",
-    "text": "Na kartici piše „beskontaktno”. Blagajna traži PIN."
+    "text": "Na laptopu piše „update and restart”. Znači vidimo se sutra."
   },
   {
     "date": "2027-02-04",
@@ -847,9 +848,9 @@
   },
   {
     "date": "2027-02-05",
-    "id": 133,
+    "id": 131,
     "type": "vic",
-    "text": "Na sastanku se javio netko s dobrim pitanjem. Odmah smo promijenili temu."
+    "text": "Na kartici piše „beskontaktno”. Blagajna traži PIN."
   },
   {
     "date": "2027-02-06",
@@ -859,9 +860,9 @@
   },
   {
     "date": "2027-02-07",
-    "id": 135,
+    "id": 133,
     "type": "vic",
-    "text": "Na webu piše „prihvaćam”. Nisam pročitao, ali sam optimist."
+    "text": "Na sastanku se javio netko s dobrim pitanjem. Odmah smo promijenili temu."
   },
   {
     "date": "2027-02-08",
@@ -871,9 +872,9 @@
   },
   {
     "date": "2027-02-09",
-    "id": 137,
+    "id": 135,
     "type": "vic",
-    "text": "Na telefonu piše „storage almost full”. Isto."
+    "text": "Na webu piše „prihvaćam”. Nisam pročitao, ali sam optimist."
   },
   {
     "date": "2027-02-10",
@@ -883,9 +884,9 @@
   },
   {
     "date": "2027-02-11",
-    "id": 139,
+    "id": 137,
     "type": "vic",
-    "text": "Na poslu je plan fleksibilan. Rok nije."
+    "text": "Na telefonu piše „storage almost full”. Isto."
   },
   {
     "date": "2027-02-12",
@@ -895,9 +896,9 @@
   },
   {
     "date": "2027-02-13",
-    "id": 141,
+    "id": 139,
     "type": "vic",
-    "text": "Na poslu smo dobili novi alat. Sad imamo još jedan alat koji ne koristimo."
+    "text": "Na poslu je plan fleksibilan. Rok nije."
   },
   {
     "date": "2027-02-14",
@@ -907,9 +908,9 @@
   },
   {
     "date": "2027-02-15",
-    "id": 143,
+    "id": 141,
     "type": "vic",
-    "text": "Na poslu su rekli da će ovo biti zadnja verzija. Nazvali su je final_v7."
+    "text": "Na poslu smo dobili novi alat. Sad imamo još jedan alat koji ne koristimo."
   },
   {
     "date": "2027-02-16",
@@ -919,9 +920,9 @@
   },
   {
     "date": "2027-02-17",
-    "id": 145,
+    "id": 143,
     "type": "vic",
-    "text": "Na poslu su rekli da trebamo ownership. Nisam našao u ugovoru."
+    "text": "Na poslu su rekli da će ovo biti zadnja verzija. Nazvali su je final_v7."
   },
   {
     "date": "2027-02-18",
@@ -931,9 +932,9 @@
   },
   {
     "date": "2027-02-19",
-    "id": 147,
+    "id": 145,
     "type": "vic",
-    "text": "Na poslu su uveli automation. Sad ručno pratimo automation."
+    "text": "Na poslu su rekli da trebamo ownership. Nisam našao u ugovoru."
   },
   {
     "date": "2027-02-20",
@@ -943,9 +944,9 @@
   },
   {
     "date": "2027-02-21",
-    "id": 149,
+    "id": 147,
     "type": "vic",
-    "text": "Na poslu su rekli da je ovo win-win. Još tražimo drugi win."
+    "text": "Na poslu su uveli automation. Sad ručno pratimo automation."
   },
   {
     "date": "2027-02-22",
@@ -955,9 +956,9 @@
   },
   {
     "date": "2027-02-23",
-    "id": 151,
+    "id": 149,
     "type": "vic",
-    "text": "Na poslu su rekli da je ovo quick fix. Fix je bio, quick nije."
+    "text": "Na poslu su rekli da je ovo win-win. Još tražimo drugi win."
   },
   {
     "date": "2027-02-24",
@@ -967,9 +968,9 @@
   },
   {
     "date": "2027-02-25",
-    "id": 153,
+    "id": 151,
     "type": "vic",
-    "text": "Na poslu su rekli da je sve u cloudu. Naravno, zato ništa ne mogu dohvatiti kad pada kiša."
+    "text": "Na poslu su rekli da je ovo quick fix. Fix je bio, quick nije."
   },
   {
     "date": "2027-02-26",
@@ -979,9 +980,9 @@
   },
   {
     "date": "2027-02-27",
-    "id": 155,
+    "id": 153,
     "type": "vic",
-    "text": "Na poslu su rekli da je to self-explanatory. Objašnjenje je trajalo 40 minuta."
+    "text": "Na poslu su rekli da je sve u cloudu. Naravno, zato ništa ne mogu dohvatiti kad pada kiša."
   },
   {
     "date": "2027-02-28",
@@ -991,9 +992,9 @@
   },
   {
     "date": "2027-03-01",
-    "id": 157,
+    "id": 155,
     "type": "vic",
-    "text": "Na poslu su rekli da imamo plan B. Plan A još nije pronađen."
+    "text": "Na poslu su rekli da je to self-explanatory. Objašnjenje je trajalo 40 minuta."
   },
   {
     "date": "2027-03-02",
@@ -1003,9 +1004,9 @@
   },
   {
     "date": "2027-03-03",
-    "id": 159,
+    "id": 157,
     "type": "vic",
-    "text": "Na poslu je politika otvorenih vrata. Samo je soba zaključana."
+    "text": "Na poslu su rekli da imamo plan B. Plan A još nije pronađen."
   },
   {
     "date": "2027-03-04",
@@ -1015,9 +1016,9 @@
   },
   {
     "date": "2027-03-05",
-    "id": 161,
+    "id": 159,
     "type": "vic",
-    "text": "Na poslu su rekli da nema potrebe za panikom. To me prvi put zabrinulo."
+    "text": "Na poslu je politika otvorenih vrata. Samo je soba zaključana."
   },
   {
     "date": "2027-03-06",
@@ -1027,9 +1028,9 @@
   },
   {
     "date": "2027-03-07",
-    "id": 163,
+    "id": 161,
     "type": "vic",
-    "text": "Na poslu je deadline fleksibilan. Samo nije za nas."
+    "text": "Na poslu su rekli da nema potrebe za panikom. To me prvi put zabrinulo."
   },
   {
     "date": "2027-03-08",
@@ -1039,9 +1040,9 @@
   },
   {
     "date": "2027-03-09",
-    "id": 165,
+    "id": 163,
     "type": "vic",
-    "text": "Na poslu su rekli da je ovo prioritet broj jedan. Ima ih šest."
+    "text": "Na poslu je deadline fleksibilan. Samo nije za nas."
   },
   {
     "date": "2027-03-10",
@@ -1051,9 +1052,9 @@
   },
   {
     "date": "2027-03-11",
-    "id": 167,
+    "id": 165,
     "type": "vic",
-    "text": "Na poslu su rekli da će novi sustav pojednostaviti posao. Sad imamo onboarding za sustav."
+    "text": "Na poslu su rekli da je ovo prioritet broj jedan. Ima ih šest."
   },
   {
     "date": "2027-03-12",
@@ -1063,9 +1064,9 @@
   },
   {
     "date": "2027-03-13",
-    "id": 169,
+    "id": 167,
     "type": "vic",
-    "text": "Na poslu su rekli da nema loših ideja. Neke su ipak dobile budžet."
+    "text": "Na poslu su rekli da će novi sustav pojednostaviti posao. Sad imamo onboarding za sustav."
   },
   {
     "date": "2027-03-14",
@@ -1075,9 +1076,9 @@
   },
   {
     "date": "2027-03-15",
-    "id": 171,
+    "id": 169,
     "type": "vic",
-    "text": "Na poslu su rekli da je problem riješen. Problem nije bio na sastanku."
+    "text": "Na poslu su rekli da nema loših ideja. Neke su ipak dobile budžet."
   },
   {
     "date": "2027-03-16",
@@ -1087,9 +1088,9 @@
   },
   {
     "date": "2027-03-17",
-    "id": 173,
+    "id": 171,
     "type": "vic",
-    "text": "Na poslu su rekli da je komunikacija transparentna. Zato valjda sve prolazi kroz tri osobe."
+    "text": "Na poslu su rekli da je problem riješen. Problem nije bio na sastanku."
   },
   {
     "date": "2027-03-18",
@@ -1099,9 +1100,9 @@
   },
   {
     "date": "2027-03-19",
-    "id": 175,
+    "id": 173,
     "type": "vic",
-    "text": "Na poslu su rekli da moramo biti proaktivni. Čekamo upute."
+    "text": "Na poslu su rekli da je komunikacija transparentna. Zato valjda sve prolazi kroz tri osobe."
   },
   {
     "date": "2027-03-20",
@@ -1111,9 +1112,9 @@
   },
   {
     "date": "2027-03-21",
-    "id": 177,
+    "id": 175,
     "type": "vic",
-    "text": "Na poslu su rekli da je ovo low effort. To je rekao čovjek koji ga neće raditi."
+    "text": "Na poslu su rekli da moramo biti proaktivni. Čekamo upute."
   },
   {
     "date": "2027-03-22",
@@ -1123,9 +1124,9 @@
   },
   {
     "date": "2027-03-23",
-    "id": 179,
+    "id": 177,
     "type": "vic",
-    "text": "Na poslu su rekli da je sve intuitivno. Intuicija je dala otkaz."
+    "text": "Na poslu su rekli da je ovo low effort. To je rekao čovjek koji ga neće raditi."
   },
   {
     "date": "2027-03-24",
@@ -1135,9 +1136,9 @@
   },
   {
     "date": "2027-03-25",
-    "id": 181,
+    "id": 179,
     "type": "vic",
-    "text": "Na poslu su rekli da ćemo učiti iz grešaka. Greške su dobile novi sprint."
+    "text": "Na poslu su rekli da je sve intuitivno. Intuicija je dala otkaz."
   },
   {
     "date": "2027-03-26",
@@ -1147,9 +1148,9 @@
   },
   {
     "date": "2027-03-27",
-    "id": 183,
+    "id": 181,
     "type": "vic",
-    "text": "Na poslu su rekli da je sustav robustan. Pao je od pogleda."
+    "text": "Na poslu su rekli da ćemo učiti iz grešaka. Greške su dobile novi sprint."
   },
   {
     "date": "2027-03-28",
@@ -1159,9 +1160,9 @@
   },
   {
     "date": "2027-03-29",
-    "id": 185,
+    "id": 183,
     "type": "vic",
-    "text": "Na poslu su rekli da će promjena biti neprimjetna. Svi su je primijetili."
+    "text": "Na poslu su rekli da je sustav robustan. Pao je od pogleda."
   },
   {
     "date": "2027-03-30",
@@ -1171,9 +1172,9 @@
   },
   {
     "date": "2027-03-31",
-    "id": 187,
+    "id": 185,
     "type": "vic",
-    "text": "Na poslu su rekli da trebamo biti data-driven. Excel je preuzeo upravljanje."
+    "text": "Na poslu su rekli da će promjena biti neprimjetna. Svi su je primijetili."
   },
   {
     "date": "2027-04-01",
@@ -1183,9 +1184,9 @@
   },
   {
     "date": "2027-04-02",
-    "id": 189,
+    "id": 187,
     "type": "vic",
-    "text": "Na poslu su rekli da se ništa ne mijenja. Poslali su 14 stranica uputa."
+    "text": "Na poslu su rekli da trebamo biti data-driven. Excel je preuzeo upravljanje."
   },
   {
     "date": "2027-04-03",
@@ -1195,9 +1196,9 @@
   },
   {
     "date": "2027-04-04",
-    "id": 191,
+    "id": 189,
     "type": "vic",
-    "text": "Na poslu su rekli da imaju workaround. Sad workaround ima workaround."
+    "text": "Na poslu su rekli da se ništa ne mijenja. Poslali su 14 stranica uputa."
   },
   {
     "date": "2027-04-05",
@@ -1207,9 +1208,9 @@
   },
   {
     "date": "2027-04-06",
-    "id": 193,
+    "id": 191,
     "type": "vic",
-    "text": "Na poslu su rekli da je dokument finalan. Ime filea je final_final2."
+    "text": "Na poslu su rekli da imaju workaround. Sad workaround ima workaround."
   },
   {
     "date": "2027-04-07",
@@ -1219,9 +1220,9 @@
   },
   {
     "date": "2027-04-08",
-    "id": 195,
+    "id": 193,
     "type": "vic",
-    "text": "Na poslu su rekli da je ovo temporary solution. Star je tri godine."
+    "text": "Na poslu su rekli da je dokument finalan. Ime filea je final_final2."
   },
   {
     "date": "2027-04-09",
@@ -1231,9 +1232,9 @@
   },
   {
     "date": "2027-04-10",
-    "id": 197,
+    "id": 195,
     "type": "vic",
-    "text": "Na poslu su rekli da ćemo pojednostaviti reporting. Dodali su tri kolone."
+    "text": "Na poslu su rekli da je ovo temporary solution. Star je tri godine."
   },
   {
     "date": "2027-04-11",
@@ -1243,9 +1244,9 @@
   },
   {
     "date": "2027-04-12",
-    "id": 199,
+    "id": 197,
     "type": "vic",
-    "text": "Na poslu su rekli da je migracija bezbolna. Sustav nije bio korisnik."
+    "text": "Na poslu su rekli da ćemo pojednostaviti reporting. Dodali su tri kolone."
   },
   {
     "date": "2027-04-13",
@@ -1255,9 +1256,9 @@
   },
   {
     "date": "2027-04-14",
-    "id": 201,
+    "id": 199,
     "type": "vic",
-    "text": "Na poslu su rekli da je ovo best practice. Nitko ne zna čiji."
+    "text": "Na poslu su rekli da je migracija bezbolna. Sustav nije bio korisnik."
   },
   {
     "date": "2027-04-15",
@@ -1267,9 +1268,9 @@
   },
   {
     "date": "2027-04-16",
-    "id": 203,
+    "id": 201,
     "type": "vic",
-    "text": "Na poslu su rekli da je sve automatizirano. Samo treba ručno pokrenuti."
+    "text": "Na poslu su rekli da je ovo best practice. Nitko ne zna čiji."
   },
   {
     "date": "2027-04-17",
@@ -1279,9 +1280,9 @@
   },
   {
     "date": "2027-04-18",
-    "id": 205,
+    "id": 203,
     "type": "vic",
-    "text": "Na poslu su rekli da ćemo imati manje mailova. Uveli su dnevni newsletter."
+    "text": "Na poslu su rekli da je sve automatizirano. Samo treba ručno pokrenuti."
   },
   {
     "date": "2027-04-19",
@@ -1291,9 +1292,9 @@
   },
   {
     "date": "2027-04-20",
-    "id": 207,
+    "id": 205,
     "type": "vic",
-    "text": "Na poslu su rekli da je ovo user-friendly. User nije bio dostupan za komentar."
+    "text": "Na poslu su rekli da ćemo imati manje mailova. Uveli su dnevni newsletter."
   },
   {
     "date": "2027-04-21",
@@ -1303,9 +1304,9 @@
   },
   {
     "date": "2027-04-22",
-    "id": 209,
+    "id": 207,
     "type": "vic",
-    "text": "Na poslu su rekli da je proces lean. Dokumentacija ima 80 stranica."
+    "text": "Na poslu su rekli da je ovo user-friendly. User nije bio dostupan za komentar."
   },
   {
     "date": "2027-04-23",
@@ -1315,9 +1316,9 @@
   },
   {
     "date": "2027-04-24",
-    "id": 211,
+    "id": 209,
     "type": "vic",
-    "text": "Na poslu su rekli da je ovo scalable. Trenutno radi za jednu osobu."
+    "text": "Na poslu su rekli da je proces lean. Dokumentacija ima 80 stranica."
   },
   {
     "date": "2027-04-25",
@@ -1327,9 +1328,9 @@
   },
   {
     "date": "2027-04-26",
-    "id": 213,
+    "id": 211,
     "type": "vic",
-    "text": "Na poslu su rekli da nema potrebe za trainingom. Onda su poslali manual."
+    "text": "Na poslu su rekli da je ovo scalable. Trenutno radi za jednu osobu."
   },
   {
     "date": "2027-04-27",
@@ -1339,9 +1340,9 @@
   },
   {
     "date": "2027-04-28",
-    "id": 215,
+    "id": 213,
     "type": "vic",
-    "text": "Na poslu su rekli da je to edge case. Pojavljuje se svaki dan."
+    "text": "Na poslu su rekli da nema potrebe za trainingom. Onda su poslali manual."
   },
   {
     "date": "2027-04-29",
@@ -1351,9 +1352,9 @@
   },
   {
     "date": "2027-04-30",
-    "id": 217,
+    "id": 215,
     "type": "vic",
-    "text": "Na poslu su rekli da je to minor issue. Major issue je bio zauzet."
+    "text": "Na poslu su rekli da je to edge case. Pojavljuje se svaki dan."
   },
   {
     "date": "2027-05-01",
@@ -1363,9 +1364,9 @@
   },
   {
     "date": "2027-05-02",
-    "id": 219,
+    "id": 217,
     "type": "vic",
-    "text": "Na poslu su rekli da je sve spremno za production. Production nije bio spreman."
+    "text": "Na poslu su rekli da je to minor issue. Major issue je bio zauzet."
   },
   {
     "date": "2027-05-03",
@@ -1375,9 +1376,9 @@
   },
   {
     "date": "2027-05-04",
-    "id": 221,
+    "id": 219,
     "type": "vic",
-    "text": "Na poslu su rekli da je sve backwards compatible. Samo ne unatrag."
+    "text": "Na poslu su rekli da je sve spremno za production. Production nije bio spreman."
   },
   {
     "date": "2027-05-05",
@@ -1387,9 +1388,9 @@
   },
   {
     "date": "2027-05-06",
-    "id": 223,
+    "id": 221,
     "type": "vic",
-    "text": "Na poslu su rekli da ćemo to napraviti ASAP. Nitko nije definirao A."
+    "text": "Na poslu su rekli da je sve backwards compatible. Samo ne unatrag."
   },
   {
     "date": "2027-05-07",
@@ -1399,9 +1400,9 @@
   },
   {
     "date": "2027-05-08",
-    "id": 225,
+    "id": 223,
     "type": "vic",
-    "text": "Na poslu su rekli da je to known issue. Lijepo da se poznaju."
+    "text": "Na poslu su rekli da ćemo to napraviti ASAP. Nitko nije definirao A."
   },
   {
     "date": "2027-05-09",
@@ -1411,9 +1412,9 @@
   },
   {
     "date": "2027-05-10",
-    "id": 227,
+    "id": 225,
     "type": "vic",
-    "text": "Na poslu su rekli da ćemo to pratiti. Nitko nije rekao kamo ide."
+    "text": "Na poslu su rekli da je to known issue. Lijepo da se poznaju."
   },
   {
     "date": "2027-05-11",
@@ -1423,9 +1424,9 @@
   },
   {
     "date": "2027-05-12",
-    "id": 229,
+    "id": 227,
     "type": "vic",
-    "text": "Na poslu su rekli da je sve modularno. Modul se ne može odvojiti."
+    "text": "Na poslu su rekli da ćemo to pratiti. Nitko nije rekao kamo ide."
   },
   {
     "date": "2027-05-13",
@@ -1435,9 +1436,9 @@
   },
   {
     "date": "2027-05-14",
-    "id": 231,
+    "id": 229,
     "type": "vic",
-    "text": "Na poslu su rekli da je ovo future-proof. Budućnost nije konzultirana."
+    "text": "Na poslu su rekli da je sve modularno. Modul se ne može odvojiti."
   },
   {
     "date": "2027-05-15",
@@ -1447,9 +1448,9 @@
   },
   {
     "date": "2027-05-16",
-    "id": 233,
+    "id": 231,
     "type": "vic",
-    "text": "Na poslu su rekli da je dokument self-contained. Ima 17 linkova."
+    "text": "Na poslu su rekli da je ovo future-proof. Budućnost nije konzultirana."
   },
   {
     "date": "2027-05-17",
@@ -1459,9 +1460,9 @@
   },
   {
     "date": "2027-05-18",
-    "id": 235,
+    "id": 233,
     "type": "vic",
-    "text": "Na poslu su rekli da je ovo plug-and-play. Plug je bio, play nije."
+    "text": "Na poslu su rekli da je dokument self-contained. Ima 17 linkova."
   },
   {
     "date": "2027-05-19",
@@ -1471,9 +1472,9 @@
   },
   {
     "date": "2027-05-20",
-    "id": 237,
+    "id": 235,
     "type": "vic",
-    "text": "Na poslu su rekli da je sve traceable. Trag se izgubio."
+    "text": "Na poslu su rekli da je ovo plug-and-play. Plug je bio, play nije."
   },
   {
     "date": "2027-05-21",
@@ -1483,9 +1484,9 @@
   },
   {
     "date": "2027-05-22",
-    "id": 239,
+    "id": 237,
     "type": "vic",
-    "text": "Na poslu su rekli da je to out of scope. Scope se širi svaki tjedan."
+    "text": "Na poslu su rekli da je sve traceable. Trag se izgubio."
   },
   {
     "date": "2027-05-23",
@@ -1495,9 +1496,9 @@
   },
   {
     "date": "2027-05-24",
-    "id": 241,
+    "id": 239,
     "type": "vic",
-    "text": "Na poslu su rekli da je ovo quick win. Win još čeka approval."
+    "text": "Na poslu su rekli da je to out of scope. Scope se širi svaki tjedan."
   },
   {
     "date": "2027-05-25",
@@ -1507,9 +1508,9 @@
   },
   {
     "date": "2027-05-26",
-    "id": 243,
+    "id": 241,
     "type": "vic",
-    "text": "Na poslu su rekli da je sve real-time. Kasni samo 15 minuta."
+    "text": "Na poslu su rekli da je ovo quick win. Win još čeka approval."
   },
   {
     "date": "2027-05-27",
@@ -1519,9 +1520,9 @@
   },
   {
     "date": "2027-05-28",
-    "id": 245,
+    "id": 243,
     "type": "vic",
-    "text": "Na poslu su rekli da je to single source of truth. Imamo tri."
+    "text": "Na poslu su rekli da je sve real-time. Kasni samo 15 minuta."
   },
   {
     "date": "2027-05-29",
@@ -1531,9 +1532,9 @@
   },
   {
     "date": "2027-05-30",
-    "id": 247,
+    "id": 245,
     "type": "vic",
-    "text": "Na poslu su rekli da će ovo smanjiti manual work. Dodali su checklistu."
+    "text": "Na poslu su rekli da je to single source of truth. Imamo tri."
   },
   {
     "date": "2027-05-31",
@@ -1543,9 +1544,9 @@
   },
   {
     "date": "2027-06-01",
-    "id": 249,
+    "id": 247,
     "type": "vic",
-    "text": "Na poslu su rekli da je sve configurable. Samo ne to."
+    "text": "Na poslu su rekli da će ovo smanjiti manual work. Dodali su checklistu."
   },
   {
     "date": "2027-06-02",
@@ -1555,9 +1556,9 @@
   },
   {
     "date": "2027-06-03",
-    "id": 251,
+    "id": 249,
     "type": "vic",
-    "text": "Na poslu su rekli da je to standard. Svaki tim ima svoj."
+    "text": "Na poslu su rekli da je sve configurable. Samo ne to."
   },
   {
     "date": "2027-06-04",
@@ -1567,9 +1568,9 @@
   },
   {
     "date": "2027-06-05",
-    "id": 253,
+    "id": 251,
     "type": "vic",
-    "text": "Na poslu su rekli da je ovo final approach. Do sljedećeg tjedna."
+    "text": "Na poslu su rekli da je to standard. Svaki tim ima svoj."
   },
   {
     "date": "2027-06-06",
@@ -1579,9 +1580,9 @@
   },
   {
     "date": "2027-06-07",
-    "id": 255,
+    "id": 253,
     "type": "vic",
-    "text": "Na poslu su rekli da je sve covered. Osim slučaja koji se dogodio."
+    "text": "Na poslu su rekli da je ovo final approach. Do sljedećeg tjedna."
   },
   {
     "date": "2027-06-08",
@@ -1591,9 +1592,9 @@
   },
   {
     "date": "2027-06-09",
-    "id": 257,
+    "id": 255,
     "type": "vic",
-    "text": "Na poslu su rekli da će sve biti seamless. Šavovi su bili vidljivi."
+    "text": "Na poslu su rekli da je sve covered. Osim slučaja koji se dogodio."
   },
   {
     "date": "2027-06-10",
@@ -1603,9 +1604,9 @@
   },
   {
     "date": "2027-06-11",
-    "id": 259,
+    "id": 257,
     "type": "vic",
-    "text": "Na poslu su rekli da je to nice-to-have. Rok ga smatra must-have."
+    "text": "Na poslu su rekli da će sve biti seamless. Šavovi su bili vidljivi."
   },
   {
     "date": "2027-06-12",
@@ -1615,9 +1616,9 @@
   },
   {
     "date": "2027-06-13",
-    "id": 261,
+    "id": 259,
     "type": "vic",
-    "text": "Na poslu su rekli da je ovo minimal change. Dokument ima 43 izmjene."
+    "text": "Na poslu su rekli da je to nice-to-have. Rok ga smatra must-have."
   },
   {
     "date": "2027-06-14",
@@ -1627,9 +1628,9 @@
   },
   {
     "date": "2027-06-15",
-    "id": 263,
+    "id": 261,
     "type": "vic",
-    "text": "Na poslu su rekli da je sustav stabilan. Stabilno pada u isto vrijeme."
+    "text": "Na poslu su rekli da je ovo minimal change. Dokument ima 43 izmjene."
   },
   {
     "date": "2027-06-16",
@@ -1639,9 +1640,9 @@
   },
   {
     "date": "2027-06-17",
-    "id": 265,
+    "id": 263,
     "type": "vic",
-    "text": "Na poslu su rekli da je ovo optimizacija. Nitko nije rekao čega."
+    "text": "Na poslu su rekli da je sustav stabilan. Stabilno pada u isto vrijeme."
   },
   {
     "date": "2027-06-18",
@@ -1651,9 +1652,9 @@
   },
   {
     "date": "2027-06-19",
-    "id": 267,
+    "id": 265,
     "type": "vic",
-    "text": "Na poslu su rekli da je ovo simple fix. Treba četiri tima."
+    "text": "Na poslu su rekli da je ovo optimizacija. Nitko nije rekao čega."
   },
   {
     "date": "2027-06-20",
@@ -1663,9 +1664,9 @@
   },
   {
     "date": "2027-06-21",
-    "id": 269,
+    "id": 267,
     "type": "vic",
-    "text": "Na poslu su rekli da će sve biti dokumentirano. Dokumentacija je backlog."
+    "text": "Na poslu su rekli da je ovo simple fix. Treba četiri tima."
   },
   {
     "date": "2027-06-22",
@@ -1675,9 +1676,9 @@
   },
   {
     "date": "2027-06-23",
-    "id": 271,
+    "id": 269,
     "type": "vic",
-    "text": "Na poslu su rekli da je to exception. Ima svoj proces."
+    "text": "Na poslu su rekli da će sve biti dokumentirano. Dokumentacija je backlog."
   },
   {
     "date": "2027-06-24",
@@ -1687,9 +1688,9 @@
   },
   {
     "date": "2027-06-25",
-    "id": 273,
+    "id": 271,
     "type": "vic",
-    "text": "Na poslu su rekli da ćemo to riješiti u hodu. Nitko ne zna kamo hodamo."
+    "text": "Na poslu su rekli da je to exception. Ima svoj proces."
   },
   {
     "date": "2027-06-26",
@@ -1699,9 +1700,9 @@
   },
   {
     "date": "2027-06-27",
-    "id": 275,
+    "id": 273,
     "type": "vic",
-    "text": "Na poslu su rekli da je to business critical. Biznis još radi."
+    "text": "Na poslu su rekli da ćemo to riješiti u hodu. Nitko ne zna kamo hodamo."
   },
   {
     "date": "2027-06-28",
@@ -1711,9 +1712,9 @@
   },
   {
     "date": "2027-06-29",
-    "id": 277,
+    "id": 275,
     "type": "vic",
-    "text": "Na poslu su rekli da je sve under control. Control nije bio dostupan."
+    "text": "Na poslu su rekli da je to business critical. Biznis još radi."
   },
   {
     "date": "2027-06-30",
@@ -1723,9 +1724,9 @@
   },
   {
     "date": "2027-07-01",
-    "id": 279,
+    "id": 277,
     "type": "vic",
-    "text": "Na poslu su rekli da je ovo transparentno. Treba tri permissiona da vidiš."
+    "text": "Na poslu su rekli da je sve under control. Control nije bio dostupan."
   },
   {
     "date": "2027-07-02",
@@ -1735,9 +1736,9 @@
   },
   {
     "date": "2027-07-03",
-    "id": 281,
+    "id": 279,
     "type": "vic",
-    "text": "Na poslu su rekli da će sve biti intuitive. User guide ima 60 stranica."
+    "text": "Na poslu su rekli da je ovo transparentno. Treba tri permissiona da vidiš."
   },
   {
     "date": "2027-07-04",
@@ -1747,9 +1748,9 @@
   },
   {
     "date": "2027-07-05",
-    "id": 283,
+    "id": 281,
     "type": "vic",
-    "text": "Na poslu su rekli da je ovo strategic. Nitko ne zna zašto."
+    "text": "Na poslu su rekli da će sve biti intuitive. User guide ima 60 stranica."
   },
   {
     "date": "2027-07-06",
@@ -1759,9 +1760,9 @@
   },
   {
     "date": "2027-07-07",
-    "id": 285,
+    "id": 283,
     "type": "vic",
-    "text": "Na poslu su rekli da je problem intermittent. Pojavljuje se redovito."
+    "text": "Na poslu su rekli da je ovo strategic. Nitko ne zna zašto."
   },
   {
     "date": "2027-07-08",
@@ -1771,9 +1772,9 @@
   },
   {
     "date": "2027-07-09",
-    "id": 287,
+    "id": 285,
     "type": "vic",
-    "text": "Na poslu su rekli da je sve reusable. Nitko ga ne želi ponovno koristiti."
+    "text": "Na poslu su rekli da je problem intermittent. Pojavljuje se redovito."
   },
   {
     "date": "2027-07-10",
@@ -1783,9 +1784,9 @@
   },
   {
     "date": "2027-07-11",
-    "id": 289,
+    "id": 287,
     "type": "vic",
-    "text": "Na poslu su rekli da je ovo optimalno. Za koga, nije specificirano."
+    "text": "Na poslu su rekli da je sve reusable. Nitko ga ne želi ponovno koristiti."
   },
   {
     "date": "2027-07-12",
@@ -1795,9 +1796,9 @@
   },
   {
     "date": "2027-07-13",
-    "id": 291,
+    "id": 289,
     "type": "vic",
-    "text": "Na poslu su rekli da je ovo straightforward. Strelica ide u tri smjera."
+    "text": "Na poslu su rekli da je ovo optimalno. Za koga, nije specificirano."
   },
   {
     "date": "2027-07-14",
@@ -1807,9 +1808,9 @@
   },
   {
     "date": "2027-07-15",
-    "id": 293,
+    "id": 291,
     "type": "vic",
-    "text": "Na poslu su rekli da nema dependencyja. Onda smo čekali tri tima."
+    "text": "Na poslu su rekli da je ovo straightforward. Strelica ide u tri smjera."
   },
   {
     "date": "2027-07-16",
@@ -1819,9 +1820,9 @@
   },
   {
     "date": "2027-07-17",
-    "id": 295,
+    "id": 293,
     "type": "vic",
-    "text": "Na poslu su rekli da je to workaround samo privremeno. Privremeno ima godišnjicu."
+    "text": "Na poslu su rekli da nema dependencyja. Onda smo čekali tri tima."
   },
   {
     "date": "2027-07-18",
@@ -1831,9 +1832,9 @@
   },
   {
     "date": "2027-07-19",
-    "id": 297,
+    "id": 295,
     "type": "vic",
-    "text": "Na poslu su rekli da je ovo scalable architecture. Trenutno ima jedan user."
+    "text": "Na poslu su rekli da je to workaround samo privremeno. Privremeno ima godišnjicu."
   },
   {
     "date": "2027-07-20",
@@ -1843,9 +1844,9 @@
   },
   {
     "date": "2027-07-21",
-    "id": 299,
+    "id": 297,
     "type": "vic",
-    "text": "Na poslu su rekli da je to low risk. Risk nije pročitao mail."
+    "text": "Na poslu su rekli da je ovo scalable architecture. Trenutno ima jedan user."
   },
   {
     "date": "2027-07-22",
@@ -1855,9 +1856,9 @@
   },
   {
     "date": "2027-07-23",
-    "id": 301,
+    "id": 299,
     "type": "vic",
-    "text": "Na poslu su rekli da je rollout gradual. Nitko ne zna gdje smo počeli."
+    "text": "Na poslu su rekli da je to low risk. Risk nije pročitao mail."
   },
   {
     "date": "2027-07-24",
@@ -1867,9 +1868,9 @@
   },
   {
     "date": "2027-07-25",
-    "id": 303,
+    "id": 301,
     "type": "vic",
-    "text": "Na poslu su rekli da je sve documented. Screenshot nije dokumentacija, ali pokušavamo."
+    "text": "Na poslu su rekli da je rollout gradual. Nitko ne zna gdje smo počeli."
   },
   {
     "date": "2027-07-26",
@@ -1879,9 +1880,9 @@
   },
   {
     "date": "2027-07-27",
-    "id": 305,
+    "id": 303,
     "type": "vic",
-    "text": "Na poslu su rekli da je to best effort. Effort je bio na godišnjem."
+    "text": "Na poslu su rekli da je sve documented. Screenshot nije dokumentacija, ali pokušavamo."
   },
   {
     "date": "2027-07-28",
@@ -1891,9 +1892,9 @@
   },
   {
     "date": "2027-07-29",
-    "id": 307,
+    "id": 305,
     "type": "vic",
-    "text": "Na poslu su rekli da je ovo expected behavior. Nitko ga nije očekivao."
+    "text": "Na poslu su rekli da je to best effort. Effort je bio na godišnjem."
   },
   {
     "date": "2027-07-30",
@@ -1903,9 +1904,9 @@
   },
   {
     "date": "2027-07-31",
-    "id": 309,
+    "id": 307,
     "type": "vic",
-    "text": "Na poslu su rekli da je ovo production-ready. Production je imao primjedbe."
+    "text": "Na poslu su rekli da je ovo expected behavior. Nitko ga nije očekivao."
   },
   {
     "date": "2027-08-01",
@@ -1915,9 +1916,9 @@
   },
   {
     "date": "2027-08-02",
-    "id": 311,
+    "id": 309,
     "type": "vic",
-    "text": "Na poslu su rekli da je sve data-driven. Data nema vozačku."
+    "text": "Na poslu su rekli da je ovo production-ready. Production je imao primjedbe."
   },
   {
     "date": "2027-08-03",
@@ -1927,9 +1928,9 @@
   },
   {
     "date": "2027-08-04",
-    "id": 313,
+    "id": 311,
     "type": "vic",
-    "text": "Na poslu su rekli da je to standard operating procedure. Operiranje nije pokriveno."
+    "text": "Na poslu su rekli da je sve data-driven. Data nema vozačku."
   },
   {
     "date": "2027-08-05",
@@ -1939,9 +1940,9 @@
   },
   {
     "date": "2027-08-06",
-    "id": 315,
+    "id": 313,
     "type": "vic",
-    "text": "Na poslu su rekli da je ovo temporary limitation. Limitacija se udomaćila."
+    "text": "Na poslu su rekli da je to standard operating procedure. Operiranje nije pokriveno."
   },
   {
     "date": "2027-08-07",
@@ -1951,9 +1952,9 @@
   },
   {
     "date": "2027-08-08",
-    "id": 317,
+    "id": 315,
     "type": "vic",
-    "text": "Na poslu su rekli da je sve monitored. Nitko ne gleda dashboard."
+    "text": "Na poslu su rekli da je ovo temporary limitation. Limitacija se udomaćila."
   },
   {
     "date": "2027-08-09",
@@ -1963,9 +1964,9 @@
   },
   {
     "date": "2027-08-10",
-    "id": 319,
+    "id": 317,
     "type": "vic",
-    "text": "Na poslu su rekli da će sve biti user-centric. User je opet bio zadnji na listi."
+    "text": "Na poslu su rekli da je sve monitored. Nitko ne gleda dashboard."
   },
   {
     "date": "2027-08-11",
@@ -1975,9 +1976,9 @@
   },
   {
     "date": "2027-08-12",
-    "id": 321,
+    "id": 319,
     "type": "vic",
-    "text": "Na poslu su rekli da je ovo simple request. Request je otvorio projekt."
+    "text": "Na poslu su rekli da će sve biti user-centric. User je opet bio zadnji na listi."
   },
   {
     "date": "2027-08-13",
@@ -1987,9 +1988,9 @@
   },
   {
     "date": "2027-08-14",
-    "id": 323,
+    "id": 321,
     "type": "vic",
-    "text": "Na poslu su rekli da je to minor enhancement. Enhancement je tražio migraciju."
+    "text": "Na poslu su rekli da je ovo simple request. Request je otvorio projekt."
   },
   {
     "date": "2027-08-15",
@@ -1999,9 +2000,9 @@
   },
   {
     "date": "2027-08-16",
-    "id": 325,
+    "id": 323,
     "type": "vic",
-    "text": "Na poslu su rekli da je sve backwards compatible. Samo prošlost nije."
+    "text": "Na poslu su rekli da je to minor enhancement. Enhancement je tražio migraciju."
   },
   {
     "date": "2027-08-17",
@@ -2011,9 +2012,9 @@
   },
   {
     "date": "2027-08-18",
-    "id": 327,
+    "id": 325,
     "type": "vic",
-    "text": "Na poslu su rekli da ćemo to automatizirati kasnije. Ručno je postalo tradicija."
+    "text": "Na poslu su rekli da je sve backwards compatible. Samo prošlost nije."
   },
   {
     "date": "2027-08-19",
@@ -2023,9 +2024,9 @@
   },
   {
     "date": "2027-08-20",
-    "id": 329,
+    "id": 327,
     "type": "vic",
-    "text": "Na poslu su rekli da je ovo one-time task. Treći put ovaj mjesec."
+    "text": "Na poslu su rekli da ćemo to automatizirati kasnije. Ručno je postalo tradicija."
   },
   {
     "date": "2027-08-21",
@@ -2035,9 +2036,9 @@
   },
   {
     "date": "2027-08-22",
-    "id": 331,
+    "id": 329,
     "type": "vic",
-    "text": "Na poslu su rekli da je to future enhancement. Future se približio."
+    "text": "Na poslu su rekli da je ovo one-time task. Treći put ovaj mjesec."
   },
   {
     "date": "2027-08-23",
@@ -2047,9 +2048,9 @@
   },
   {
     "date": "2027-08-24",
-    "id": 333,
+    "id": 331,
     "type": "vic",
-    "text": "Na poslu su rekli da je sve configurable. Dokumentacija kaže možda."
+    "text": "Na poslu su rekli da je to future enhancement. Future se približio."
   },
   {
     "date": "2027-08-25",
@@ -2059,9 +2060,9 @@
   },
   {
     "date": "2027-08-26",
-    "id": 335,
+    "id": 333,
     "type": "vic",
-    "text": "Na poslu su rekli da je to stable release. Release se tresao."
+    "text": "Na poslu su rekli da je sve configurable. Dokumentacija kaže možda."
   },
   {
     "date": "2027-08-27",
@@ -2071,9 +2072,9 @@
   },
   {
     "date": "2027-08-28",
-    "id": 337,
+    "id": 335,
     "type": "vic",
-    "text": "Na poslu su rekli da će ovo biti transparentno. Treba VPN da vidiš."
+    "text": "Na poslu su rekli da je to stable release. Release se tresao."
   },
   {
     "date": "2027-08-29",
@@ -2083,9 +2084,9 @@
   },
   {
     "date": "2027-08-30",
-    "id": 339,
+    "id": 337,
     "type": "vic",
-    "text": "Na poslu su rekli da je to simple migration. Simple je ostao na starom sustavu."
+    "text": "Na poslu su rekli da će ovo biti transparentno. Treba VPN da vidiš."
   },
   {
     "date": "2027-08-31",
@@ -2095,9 +2096,9 @@
   },
   {
     "date": "2027-09-01",
-    "id": 341,
+    "id": 339,
     "type": "vic",
-    "text": "Na poslu su rekli da je sve logged. Problem je što nitko ne zna gdje."
+    "text": "Na poslu su rekli da je to simple migration. Simple je ostao na starom sustavu."
   },
   {
     "date": "2027-09-02",
@@ -2107,9 +2108,9 @@
   },
   {
     "date": "2027-09-03",
-    "id": 343,
+    "id": 341,
     "type": "vic",
-    "text": "Na poslu su rekli da je to quick check. Quick je relativan pojam."
+    "text": "Na poslu su rekli da je sve logged. Problem je što nitko ne zna gdje."
   },
   {
     "date": "2027-09-04",
@@ -2119,9 +2120,9 @@
   },
   {
     "date": "2027-09-05",
-    "id": 345,
+    "id": 343,
     "type": "vic",
-    "text": "Na poslu su rekli da je ovo standard template. Svaka verzija je drugačija."
+    "text": "Na poslu su rekli da je to quick check. Quick je relativan pojam."
   },
   {
     "date": "2027-09-06",
@@ -2131,9 +2132,9 @@
   },
   {
     "date": "2027-09-07",
-    "id": 347,
+    "id": 345,
     "type": "vic",
-    "text": "Na poslu su rekli da je ovo normalno ponašanje. Normalno je zabrinuto."
+    "text": "Na poslu su rekli da je ovo standard template. Svaka verzija je drugačija."
   },
   {
     "date": "2027-09-08",
@@ -2143,9 +2144,9 @@
   },
   {
     "date": "2027-09-09",
-    "id": 349,
+    "id": 347,
     "type": "vic",
-    "text": "Na poslu su rekli da je sve synchronized. Satovi se ne slažu."
+    "text": "Na poslu su rekli da je ovo normalno ponašanje. Normalno je zabrinuto."
   },
   {
     "date": "2027-09-10",
@@ -2155,9 +2156,9 @@
   },
   {
     "date": "2027-09-11",
-    "id": 351,
+    "id": 349,
     "type": "vic",
-    "text": "Na poslu su rekli da je ovo controlled change. Change nije bio obaviješten."
+    "text": "Na poslu su rekli da je sve synchronized. Satovi se ne slažu."
   },
   {
     "date": "2027-09-12",
@@ -2167,9 +2168,9 @@
   },
   {
     "date": "2027-09-13",
-    "id": 353,
+    "id": 351,
     "type": "vic",
-    "text": "Na poslu su rekli da je to small update. Download traje sat vremena."
+    "text": "Na poslu su rekli da je ovo controlled change. Change nije bio obaviješten."
   },
   {
     "date": "2027-09-14",
@@ -2179,9 +2180,9 @@
   },
   {
     "date": "2027-09-15",
-    "id": 355,
+    "id": 353,
     "type": "vic",
-    "text": "Na poslu su rekli da je ovo standard workflow. Workflow ima iznimku za svaki korak."
+    "text": "Na poslu su rekli da je to small update. Download traje sat vremena."
   },
   {
     "date": "2027-09-16",
@@ -2191,9 +2192,9 @@
   },
   {
     "date": "2027-09-17",
-    "id": 357,
+    "id": 355,
     "type": "vic",
-    "text": "Na poslu su rekli da je sve approved. Approval je još pending."
+    "text": "Na poslu su rekli da je ovo standard workflow. Workflow ima iznimku za svaki korak."
   },
   {
     "date": "2027-09-18",
@@ -2203,24 +2204,30 @@
   },
   {
     "date": "2027-09-19",
+    "id": 357,
+    "type": "vic",
+    "text": "Na poslu su rekli da je sve approved. Approval je još pending."
+  },
+  {
+    "date": "2027-09-21",
     "id": 359,
     "type": "vic",
     "text": "Na poslu su rekli da je ovo minimum viable product. Minimum je ostao, viable raspravljamo."
   },
   {
-    "date": "2027-09-21",
+    "date": "2027-09-23",
     "id": 361,
     "type": "vic",
     "text": "Na poslu su rekli da je to simple mapping. Mapa nema legendu."
   },
   {
-    "date": "2027-09-23",
+    "date": "2027-09-25",
     "id": 363,
     "type": "vic",
     "text": "Na poslu su rekli da je sve reproducible. Bug se uvrijedio i nestao."
   },
   {
-    "date": "2027-09-25",
+    "date": "2027-09-27",
     "id": 365,
     "type": "vic",
     "text": "Na poslu su rekli da je ovo clean solution. Folder se zove temp2_final."
