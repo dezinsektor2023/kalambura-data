@@ -1,6 +1,6 @@
 {
   "minimumVotes": 5,
-  "updatedAt": "2026-09-24T18:11:19Z",
+  "updatedAt": "2026-09-24T18:11:33Z",
   "months": {
     "2026-09": {
       "kalambura": {
@@ -21,9 +21,9 @@
         "text": "Idu Stevie Wonder I Zdravko Skender u kino. Veli Stevie, AJ ti stani u red, a ja idem vidjet kolko su karte",
         "author": "Testis",
         "likes": 11,
-        "dislikes": 32,
-        "totalVotes": 43,
-        "score": -21
+        "dislikes": 31,
+        "totalVotes": 42,
+        "score": -20
       }
     }
   }
