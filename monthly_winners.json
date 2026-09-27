@@ -1,6 +1,6 @@
 {
   "minimumVotes": 5,
-  "updatedAt": "2026-09-27T12:43:28Z",
+  "updatedAt": "2026-09-27T14:43:34Z",
   "months": {
     "2026-09": {
       "kalambura": {
@@ -9,10 +9,10 @@
         "type": "kalambura",
         "text": "Začini mi se da bi...i ja dao pola života svog",
         "author": "",
-        "likes": 4,
-        "dislikes": 2,
+        "likes": 5,
+        "dislikes": 1,
         "totalVotes": 6,
-        "score": 2
+        "score": 4
       },
       "vic": {
         "id": "370",
