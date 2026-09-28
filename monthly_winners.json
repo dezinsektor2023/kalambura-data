@@ -1,6 +1,6 @@
 {
   "minimumVotes": 5,
-  "updatedAt": "2026-09-28T15:40:22Z",
+  "updatedAt": "2026-09-28T18:44:32Z",
   "months": {
     "2026-09": {
       "kalambura": {
@@ -15,15 +15,15 @@
         "score": 5
       },
       "vic": {
-        "id": "370",
-        "date": "2026-09-24",
+        "id": "390",
+        "date": "2026-09-28",
         "type": "vic",
-        "text": "Idu Stevie Wonder I Zdravko Skender u kino. Veli Stevie, AJ ti stani u red, a ja idem vidjet kolko su karte",
-        "author": "Testis",
-        "likes": 3,
-        "dislikes": 6,
-        "totalVotes": 9,
-        "score": -3
+        "text": "Dolazi mladić kod svećenika na ispovijed i kaže: \"Oženio sam se.\" Svećenik sav u čudu: \"Mladi gospodine, pa to nije grijeh.\" Mladić odgovara: \"Ja se svejedno KAJEM!\"",
+        "author": "",
+        "likes": 4,
+        "dislikes": 1,
+        "totalVotes": 5,
+        "score": 3
       }
     }
   }
