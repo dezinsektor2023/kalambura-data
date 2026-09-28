@@ -1,6 +1,6 @@
 {
   "minimumVotes": 5,
-  "updatedAt": "2026-09-28T19:42:26Z",
+  "updatedAt": "2026-09-28T21:55:30Z",
   "months": {
     "2026-09": {
       "kalambura": {
@@ -20,10 +20,10 @@
         "type": "vic",
         "text": "Dolazi mladić kod svećenika na ispovijed i kaže: \"Oženio sam se.\" Svećenik sav u čudu: \"Mladi gospodine, pa to nije grijeh.\" Mladić odgovara: \"Ja se svejedno KAJEM!\"",
         "author": "",
-        "likes": 5,
+        "likes": 6,
         "dislikes": 1,
-        "totalVotes": 6,
-        "score": 4
+        "totalVotes": 7,
+        "score": 5
       }
     }
   }
