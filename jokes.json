@@ -86,7 +86,7 @@
     "date": "2026-10-01",
     "id": 12,
     "type": "kalambura",
-    "text": "Nada umire Rafael. Sjeti se 'L'."
+    "text": "Rafael umire zadnji. Sjeti se 'L'."
   },
   {
     "date": "2026-10-02",
@@ -99,8 +99,8 @@
     "date": "2026-10-03",
     "id": 377,
     "type": "kalambura",
-    "text": "test, testis, testisi,",
-    "author": "bero"
+    "text": "Mladić ko u Hagu Ratko",
+    "author": "leteći"
   },
   {
     "date": "2026-10-04",
@@ -113,7 +113,7 @@
     "date": "2026-10-05",
     "id": 378,
     "type": "kalambura",
-    "text": "testisi,test, testosteron,feferon",
+    "text": "Ček malo, ali ja nisam Izetbegović",
     "author": "bero"
   },
   {
@@ -134,7 +134,7 @@
     "date": "2026-10-08",
     "id": 379,
     "type": "vic",
-    "text": "Daj mi dobru foru poaljite!",
+    "text": "Daj mi dobru foru pošaljite!",
     "author": "bero"
   },
   {
@@ -148,7 +148,7 @@
     "date": "2026-10-10",
     "id": 382,
     "type": "vic",
-    "text": "stavka nije pronađena",
+    "text": "Nema vica danas. Kaj bi vi sad, svaki dan neki vic...",
     "author": "bero"
   },
   {
@@ -168,7 +168,7 @@
     "date": "2026-10-13",
     "id": 384,
     "type": "kalambura",
-    "text": "Bug si ti i dio si igre, a ja sam dezinsektor.",
+    "text": "Aj još Vladimir putna pa idemo.",
     "author": "dezinsektor"
   },
   {
@@ -188,15 +188,15 @@
     "date": "2026-10-16",
     "id": 396,
     "type": "vic",
-    "text": "Mrš mala mušice, mrš.",
-    "author": "testosteron"
+    "text": "Marš mala mušice, marš.",
+    "author": "student"
   },
   {
     "date": "2026-10-17",
     "id": 386,
     "type": "kalambura",
-    "text": "Idu dva klošara ulicom, jedan žica, a drugi kabel",
-    "author": "Lisan al-Gaib"
+    "text": "(Pakoštane) U pak, o što ne?",
+    "author": "Leteći"
   },
   {
     "date": "2026-10-18",
@@ -214,8 +214,8 @@
     "date": "2026-10-20",
     "id": 397,
     "type": "vic",
-    "text": "Jok, ima 3 sardine, jer ovih 5 kojih nemas i ova 1 to su ti dve.",
-    "author": "dezinsektor"
+    "text": "Jok, imaš 3 sardine, jer ovih pet kojih nemaš i ova jedna to su ti dve.",
+    "author": ""
   },
   {
     "date": "2026-10-21",
@@ -315,8 +315,8 @@
     "date": "2026-11-05",
     "id": 369,
     "type": "vic",
-    "text": "Idu Stevie Wonder i Zdravko Škender, ček pato je bilo već.",
-    "author": "testis"
+    "text": "Idu Stevie Wonder i Zdravko Škender, ček pa to je bilo već...",
+    "author": "dez"
   },
   {
     "date": "2026-11-06",
@@ -328,7 +328,7 @@
     "date": "2026-11-07",
     "id": 367,
     "type": "vic",
-    "text": "Idu Stevie Wonder i Zdravko Škender u kino. Veli Stevie, daj ti stani u red, ja idem vidjeti kolko su karte.",
+    "text": "Ide 100 ljudi, pita Obalo bjelokoštanin Balijca: "ček i ti si isto došao?" Na to će žaba: "Da, obavezno"
     "author": "dezinsektor"
   },
   {
@@ -341,7 +341,7 @@
     "date": "2026-11-09",
     "id": 372,
     "type": "vic",
-    "text": "push_notifikejshn",
+    "text": "kreker",
     "author": "test115"
   },
   {
@@ -354,7 +354,7 @@
     "date": "2026-11-11",
     "id": 371,
     "type": "vic",
-    "text": "VicHrvatskiDatum",
+    "text": "Vice Vukov priča najbolje viceve. Pitaj njega za vic.",
     "author": "Test6"
   },
   {
@@ -410,7 +410,7 @@
     "date": "2026-11-20",
     "id": 42,
     "type": "kalambura",
-    "text": "Jak sam ko Jakić."
+    "text": "Jak sam ko zastava."
   },
   {
     "date": "2026-11-21",
@@ -422,7 +422,7 @@
     "date": "2026-11-22",
     "id": 44,
     "type": "kalambura",
-    "text": "Mlate mišu kovači ako te zlostavi"
+    "text": "Mlate mišu kovači. "Ako tee zlostaviiiii...."
   },
   {
     "date": "2026-11-23",
