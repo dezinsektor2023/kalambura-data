@@ -1,3 +1,31 @@
 {
-  "years": {}
+  "years": {
+    "2026": {
+      "09": {
+        "archivedAt": "2026-10-06T17:40:56Z",
+        "vic": {
+          "id": "390",
+          "date": "2026-09-28",
+          "type": "vic",
+          "text": "Dolazi mladić kod svećenika na ispovijed i kaže: \"Oženio sam se.\" Svećenik sav u čudu: \"Mladi gospodine, pa to nije grijeh.\" Mladić odgovara: \"Ja se svejedno KAJEM!\"",
+          "author": "",
+          "likes": 6,
+          "dislikes": 1,
+          "totalVotes": 7,
+          "score": 5
+        },
+        "kalambura": {
+          "id": "8",
+          "date": "2026-09-27",
+          "type": "kalambura",
+          "text": "Začini mi se da bi...i ja dao pola života svog",
+          "author": "",
+          "likes": 6,
+          "dislikes": 1,
+          "totalVotes": 7,
+          "score": 5
+        }
+      }
+    }
+  }
 }
