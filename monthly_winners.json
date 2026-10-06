@@ -1,6 +1,6 @@
 {
   "minimumVotes": 5,
-  "updatedAt": "2026-10-06T18:47:47Z",
+  "updatedAt": "2026-10-06T18:48:18Z",
   "months": {
     "2026-09": {
       "kalambura": {
@@ -24,6 +24,19 @@
         "dislikes": 1,
         "totalVotes": 7,
         "score": 5
+      }
+    },
+    "2026-10": {
+      "vic": {
+        "id": "374",
+        "date": "2026-10-02",
+        "type": "vic",
+        "text": "Rukovodioc me je pitao kako stojim sa dodatnim godišnjim ciljevima koji nisu propisani,ali ih je on imao u svojim mislima.Ja ga upitah: \"Mislite ,vaši neverbalizirani zadaci za mene?\".\"Da\".\"Totalno sam ih nadmašio,upravo kako ste i zamislili!\"",
+        "author": "Stilgar",
+        "likes": 3,
+        "dislikes": 2,
+        "totalVotes": 5,
+        "score": 1
       }
     }
   }
