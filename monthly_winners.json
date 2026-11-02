@@ -1,6 +1,6 @@
 {
   "minimumVotes": 5,
-  "updatedAt": "2026-11-02T22:11:38Z",
+  "updatedAt": "2026-11-02T22:11:45Z",
   "months": {
     "2026-09": {
       "kalambura": {
@@ -48,6 +48,19 @@
         "dislikes": 0,
         "totalVotes": 7,
         "score": 7
+      }
+    },
+    "2026-11": {
+      "kalambura": {
+        "id": "410",
+        "date": "2026-11-02",
+        "type": "kalambura",
+        "text": "Poslje posla Martina Navratilova do mene pa ćemo popit cugu",
+        "author": "Dark0",
+        "likes": 5,
+        "dislikes": 0,
+        "totalVotes": 5,
+        "score": 5
       }
     }
   }
