@@ -1,6 +1,6 @@
 {
   "minimumVotes": 5,
-  "updatedAt": "2026-11-06T13:52:41Z",
+  "updatedAt": "2026-11-06T13:52:47Z",
   "months": {
     "2026-09": {
       "kalambura": {
@@ -52,15 +52,15 @@
     },
     "2026-11": {
       "kalambura": {
-        "id": "413",
-        "date": "2026-11-06",
+        "id": "410",
+        "date": "2026-11-02",
         "type": "kalambura",
-        "text": "Koliko duboko rone forenzičari? do DNA",
-        "author": "dark0",
-        "likes": 6,
+        "text": "Poslje posla Martina Navratilova do mene pa ćemo popit cugu",
+        "author": "Dark0",
+        "likes": 5,
         "dislikes": 0,
-        "totalVotes": 6,
-        "score": 6
+        "totalVotes": 5,
+        "score": 5
       }
     }
   }
