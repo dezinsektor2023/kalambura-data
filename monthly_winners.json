@@ -1,6 +1,6 @@
 {
   "minimumVotes": 5,
-  "updatedAt": "2026-11-09T12:01:31Z",
+  "updatedAt": "2026-11-09T13:41:28Z",
   "months": {
     "2026-09": {
       "kalambura": {
@@ -61,6 +61,17 @@
         "dislikes": 3,
         "totalVotes": 12,
         "score": 6
+      },
+      "vic": {
+        "id": "419",
+        "date": "2026-11-09",
+        "type": "vic",
+        "text": "Dođe Fićo na Pivu poslije posla.I mnoštvo se skupiše i rujno pivo podizaše! Uz puno nazdravljanja i kliktaja bitaka (bitka) u Staroj Firmi sjetiše se.I bend onda smiono oforme,gdje Berislava Razbičašu ustoličiše i Bas Sudbine pronađoše.Tad se svi se zagrle i  objeručke potroše neizustivu povišicu što od dobrih velmoža dobiše i odbjegle ovce se stadu uistinu vapeć vrate! Avaj,u zao čas miš optiku servera gricnuše i svih Sedam Propulzivnih Mladaca se iz foldera kletih Ejčara izbrisaše.Rasuti po svijetu,povratak velikog Dragec Minga slute....(ovo je bajka - od prve rečenice).",
+        "author": "Muad'Dib",
+        "likes": 1,
+        "dislikes": 4,
+        "totalVotes": 5,
+        "score": -3
       }
     }
   }
