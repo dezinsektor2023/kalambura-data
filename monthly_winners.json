@@ -1,6 +1,6 @@
 {
   "minimumVotes": 5,
-  "updatedAt": "2026-11-14T07:44:27Z",
+  "updatedAt": "2026-11-14T07:44:31Z",
   "months": {
     "2026-09": {
       "kalambura": {
@@ -52,14 +52,14 @@
     },
     "2026-11": {
       "kalambura": {
-        "id": "413",
-        "date": "2026-11-06",
+        "id": "420",
+        "date": "2026-11-14",
         "type": "kalambura",
-        "text": "Koliko duboko rone forenzičari? do DNA",
+        "text": "Filip. Daj se odluči jel F ili P",
         "author": "dark0",
-        "likes": 9,
-        "dislikes": 3,
-        "totalVotes": 12,
+        "likes": 7,
+        "dislikes": 1,
+        "totalVotes": 8,
         "score": 6
       },
       "vic": {
